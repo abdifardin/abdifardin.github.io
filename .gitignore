@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 _site
 .sass-cache
 .jekyll-metadata
@@ -6,9 +5,3 @@ _site
 .DS_Store
 node_modules
 npm-debug.log
-=======
-.DS_Store
-_site
-.sass-cache
-Gemfile.lock
->>>>>>> 3f71466f6c9063d4db112a7f9751f0709a5ce222
