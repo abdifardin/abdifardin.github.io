@@ -1,15 +1,15 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Hotorder"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
+date: 2017-10-20 22:10
+tag: takeaway, online restaurant, delivery, leeds, UK, javascript, react
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "takeaway online service for who's living in UK. Starting from leeds city"
 category: project
-author: johndoe
+author: Fakhruddin Abdi
 externalLink: false
 ---
 
