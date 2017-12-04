@@ -15,7 +15,14 @@ externalLink: false
 
 ![Screenshot](/assets/hotorder-screenshot.jpg)
 
-A takeaway project by  [Softcode](https://softcode.co.uk/). Order takeaway online from UK food delivery restaurants
+A takeaway project by  [Softcode](https://softcode.co.uk/).
+
+Hotorder is an online food order and delivery service. It acts as an intermediary between independent take-out food outlets and customers.
+It is headquartered in the United Kingdom . The platform allows customers to search for local take-out restaurants to place orders online,
+and to choose from pick-up or delivery options.
+
+Founded and developed by Softcode in 2016 and launched the service in February 2017.
+
 
 ---
 
