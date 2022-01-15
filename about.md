@@ -6,7 +6,7 @@ layout: page
 
  Hello :)
  My name is Fakhruddin Abdi.
- <br/>`I am a developer based in Sanandaj, Iran`.
+ <br/>`I am a developer based in Iran`.
 
  <p> And this is my story: </p>
 
