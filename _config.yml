@@ -1,6 +1,6 @@
 # main text of home
 name: Fakhruddin Abdi
-bio: I love coding, and a big believer in open source.
+bio: I love coding, and a fan of functional programming.
 
 # twitter summary info
 description: Portfolio website
@@ -8,7 +8,7 @@ description: Portfolio website
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.png
+picture: assets/images/profile2.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -80,7 +80,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
