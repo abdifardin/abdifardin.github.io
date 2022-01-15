@@ -1,13 +1,8 @@
 ---
-title: "Hotorder"
+title: "Softcode"
 layout: post
 date: 2017-10-20 22:10
-tag: 
-- ReactJs
-- MeteorJs
-- Javascript
-- Takeaway
-- Delivery
+tag: takeaway, online restaurant, delivery, leeds, UK, javascript, react
 image: https://hotorder.co.uk/logo.png
 headerImage: true
 projects: true
