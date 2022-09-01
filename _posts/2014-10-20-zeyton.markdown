@@ -1,0 +1,90 @@
+---
+title: "Zeyton"
+layout: post
+date: 2014-10-20 22:10
+tag: 
+- ReactJs
+- Semantic Web
+- Freebase
+- Triplestore
+- Cassandra
+- Drupal
+
+image: /assets/images/projects/zeyton/logo.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "takeaway online service for who's living in UK. Starting from leeds city"
+category: project
+author: Fakhruddin Abdi
+externalLink: false
+---
+
+![Screenshot](/assets/images/projects/zeyton/home.jpg)
+
+Zeyton was a social knowledge platform which targeted the Middle East audience. The idea was brilliant and the project scale was very large. 
+At 2013, i meet a very random guy, who offered me to work as a first developer on the project: A new search engine :|.
+I accepted and started managing the project by outsourcing the website to a drupal developer and i focused on the research about how made a search engine.
+I took the project seriously and did many researchs and developments to make it happen. I remember i downloaded and printed many articles about search engines and how google made up and how it scale.
+
+After a year full time working, i successfully manage the website interface and I used a proxy server to distpatch the request to multiple search engines like google and bings.
+But later i came across [freebase](https://en.wikipedia.org/wiki/Freebase_(database)), a  non-commercial database which later acquired by google and shut down the project.
+I downloaded the whole 20G database and explored it and tried to re-build it on a graph database.
+It was really interesting, and very challenging. But it was very hard to re-build on a production database, so we stopped there and started loooking for an investment.
+
+[Newroztelecom](https://www.newroztelecom.com/) agreed to invest on the project as series A for $5M.
+The company size was about 20 employees with a dedicated office and multiple departments
+
+![Screenshot](/assets/images/projects/zeyton/page.jpg)
+
+We started building the team and the company from scratch, by hiring from multiple countries with both full time and remote working.
+The exprinece was great and during the total four years being on the project, we did:
+1. Creating a social knowledge system with everyone can add a new post and assign multiple tags which will link to our graph database
+2. Building a smart search suggestion with more than 100M topics we already had on the database
+3. Menu topics:
+   1. People
+   2. Search
+   3. Knowledge
+   4. Photos
+   5. Videos
+   6. News
+4. Rebuilding the entire freebase database with Blazegraph technology
+5. Creating a translation management system to manage translation flows for topics loccalizations
+6. Build a cross-platform voice over IP and instant messaging software application
+  
+
+
+## Main features
+- Social knowledge management system
+  - Allow everyone to create and share content inlcluding articles, video, audio, image and more
+  - Post reaction (like and comments)
+  - Page and People following
+  - News feeds
+- Search engine
+- Smart search suggestion
+- Translation management system
+
+## Tech stack
+- React js
+- Laravel
+- Drupal
+- Android
+- Cassandra
+- Blazegraph
+
+## Links
+Unfortunately, the project stopped right before lunching because of the management.
+
+
+## Screen shots
+<div style="display: flex; justify-content: space-between">
+	<a href="/assets/images/projects/zeyton/sign.jpg" width="100" target="_blank">
+		<img style="width: 80%" src="/assets/images/projects/zeyton/sign.jpg" />
+	</a>
+	<a href="/assets/images/projects/zeyton/upload.jpg" width="100" target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/zeyton/upload.jpg" />
+	</a>	
+	<a href="/assets/images/projects/zeyton/article.jpg" width="100"  target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/zeyton/article.jpg"/>
+	</a>
+</div>

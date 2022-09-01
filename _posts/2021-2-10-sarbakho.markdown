@@ -1,14 +1,12 @@
 ---
 title: "Sarbakho"
 layout: post
-date: 2017-10-20 22:10
+date: 2018-10-20 22:10
 tag: 
 - ReactJs
-- MeteorJs
+- Firebae
 - Javascript
-- Takeaway
-- Delivery
-image: https://hotorder.co.uk/logo.png
+image: /assets/images/projects/sarbakho/logo.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -18,45 +16,78 @@ author: Fakhruddin Abdi
 externalLink: false
 ---
 
-![Screenshot](/assets/hotorder-screenshot.jpg)
+![Screenshot](/assets/images/projects/sarbakho/15.png)
 
-[Hotorder](https://hotorder.co.uk) is an online food order and delivery service. It acts as an intermediary between independent take-out food outlets and customers.
-It is headquartered in the United Kingdom . The platform allows customers to search for local take-out restaurants to place orders online,
-and to choose from pick-up or delivery options.
 
-Founded and developed by Softcode in 2016 and launched the service in February 2017.
+Ad the begning of the covid outbreaks, we received a project from Sulaymaniyah health orginzation to build an online database system to manage the covid tests.
+We immediately started building the system and within a month we could deliver it to the client.
+It was a user frinedly, fully custom, react backed database system which let the goverment staff add and manage the records and let the patient check their test results.
 
+<a href="/assets/images/projects/sarbakho/1.png" width="100" target="_blank">
+  <img style="width: 80%" src="/assets/images/projects/sarbakho/1.png" />
+</a>
 ## Features
- - Multi shop
- - Online ordering
-    - Cash
-    - Card
- - Role managment
-    - Guest
-    - Staff
-    - Admin
-    - Super Admin
-- Shop managment
-    - Manage Staff
-    - Opening time
-    - Menu Builder
-- Menu Builder
-    - Menu with option
-    - Menu with extra
-- Search based on post code
-- Staff application
+ - User management system
+ - Add a new record
+ - Automatic printer detection and printing
+ - Seaarch and filters the history list
+ - Multi branch 
+ - Data visualization and more
 
 ## Tech stack
 
-- Meteor
-- React
-- React-router 4
-- Webpack
-- Enzyme
-- Mocha
-- iOS ( Cordova )
-- Android ( Cordova )
+- ReactJs
+- Firebase
 
----
+## Links
+The website is not active anymore.
+<br/>[This is a link](https://covid19-53b1e.web.app/) of firebase hosting for the project 
 
-[Check it out](https://hotorder.co.uk/) here.
+----
+## Screen shots
+<div style="display: flex; justify-content: space-between">
+	<a href="/assets/images/projects/sarbakho/2.png" width="100" target="_blank">
+		<img style="width: 80%" src="/assets/images/projects/sarbakho/2.png" />
+	</a>
+	<a href="/assets/images/projects/sarbakho/3.png" width="100" target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/sarbakho/3.png" />
+	</a>	
+	<a href="/assets/images/projects/sarbakho/45.png" width="100"  target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/sarbakho/5.png"/>
+	</a>
+		<a href="/assets/images/projects/sarbakho/6" width="100"  target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/sarbakho/6.png"/>
+	</a>
+</div>
+<div style="display: flex; justify-content: space-between">
+	<a href="/assets/images/projects/sarbakho/7.png" width="100" target="_blank">
+		<img style="width: 80%" src="/assets/images/projects/sarbakho/7.png" />
+	</a>
+	<a href="/assets/images/projects/sarbakho/9.png" width="100" target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/sarbakho/9.png" />
+	</a>	
+	<a href="/assets/images/projects/sarbakho/11.png" width="100"  target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/sarbakho/11.png"/>
+	</a>
+		<a href="/assets/images/projects/sarbakho/8.png" width="100"  target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/sarbakho/8.png"/>
+	</a>
+		</a>
+		<a href="/assets/images/projects/sarbakho/10.png" width="100"  target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/sarbakho/10.png"/>
+	</a>
+</div>
+<div style="display: flex; justify-content: space-between">
+	<a href="/assets/images/projects/sarbakho/mobile.jpg" width="100" target="_blank">
+		<img style="width: 80%" src="/assets/images/projects/sarbakho/mobile.jpg" />
+	</a>
+	<a href="/assets/images/projects/sarbakho/paper.png" width="100" target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/sarbakho/paper.png" />
+	</a>	
+	<a href="/assets/images/projects/sarbakho/print.png" width="100"  target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/sarbakho/print.png"/>
+	</a>
+		<a href="/assets/images/projects/sarbakho/report.png" width="100"  target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/sarbakho/report.png"/>
+	</a>
+</div>

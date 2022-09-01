@@ -1,0 +1,171 @@
+---
+title: "Harzaan"
+layout: post
+date: 2022-08-1 22:10
+tag: 
+- Harzaan
+- React
+- React Native
+- Wordpress
+- Firebase
+image: /assets/images/projects/harzaan/logo.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A classified ads website for kurdish people"
+category: project
+author: Fakhruddin Abdi
+externalLink: false
+---
+
+![Harzaan-Website](/assets/images/projects/harzaan/website.png)
+
+[Harzaan](https://harzaan.com) is a classified ads for Iraq/ Kurdistan.
+
+Harzaan is a Kurdish classified ads web appliction with a differnt categories.
+The service is fully searchable and created with ReactJs, React Native, Firebase.
+
+The target market is Iraq, but we started it with Kurdish language in Kurdistan then we want to expaned it to other cities of Iraq.
+
+Founded and developed by Bawersystem in 2016 and launched at March 2017.
+
+Right now its among the top classified ads services in Iraq and many people is using it daily for their needs.
+
+## statistics
+  - More than 400K downloads
+  - More than 100K monthly active users
+
+## Harzaan website
+The website has been made by Nextjs.
+Its CEO-optimized, full responsive with a in-house designed UI/UX
+
+The post loading is optimized to be as fast as possible with less than 100K page size.
+All application features are implemented in the website as well.
+
+<div style="display: flex; justify-content: space-between">
+	<a href="/assets/images/projects/harzaan/we1b.png" width="100" target="_blank">
+		<img style="width: 80%" src="/assets/images/projects/harzaan/web1.png" />
+	</a>
+	<a href="/assets/images/projects/harzaan/web11.png" width="100" target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/harzaan/web11.png" />
+	</a>	
+	<a href="/assets/images/projects/harzaan/web10.png" width="100"  target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/harzaan/web10.png"/>
+	</a>
+	<a href="/assets/images/projects/harzaan/web12.png" width="100"  target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/harzaan/web12.png"/>
+	</a>
+</div>
+<div style="display: flex; justify-content: space-between">
+	<a href="/assets/images/projects/harzaan/web4.png" width="100" target="_blank">
+		<img style="width: 80%" src="/assets/images/projects/harzaan/web4.png" />
+	</a>
+	<a href="/assets/images/projects/harzaan/web5.png" width="100" target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/harzaan/web5.png" />
+	</a>	
+	<a href="/assets/images/projects/harzaan/web6.png" width="100"  target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/harzaan/web6.png"/>
+	</a>
+		<a href="/assets/images/projects/harzaan/web2.png" width="100" target="_blank">
+		<img style="width: 80%" src="/assets/images/projects/harzaan/web2.png" />
+	</a>
+</div>
+<div style="display: flex; justify-content: space-between">
+	<a href="/assets/images/projects/harzaan/web7.png" width="100" target="_blank">
+		<img style="width: 80%" src="/assets/images/projects/harzaan/web7.png" />
+	</a>
+	<a href="/assets/images/projects/harzaan/web8.png" width="100" target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/harzaan/web8.png" />
+	</a>	
+	<a href="/assets/images/projects/harzaan/web9.png" width="100"  target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/harzaan/web9.png"/>
+	</a>
+</div>
+
+## Harzaan Apps
+Our main platform is the applications
+The apps are available in the two versions.
+1. [Android App](https://play.google.com/store/apps/details?id=com.bawersystem.harzaan&hl=en&gl=US)
+2. [Appstore App](https://apps.apple.com/us/app/harzaan/id1391404720)
+
+<div style="display: flex; justify-content: space-between">
+	<a href="/assets/images/projects/harzaan/play.png" width="100" target="_blank">
+		<img style="width: 80%" src="/assets/images/projects/harzaan/play.png" />
+	</a>
+	<a href="/assets/images/projects/harzaan/store.png" width="100" target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/harzaan/store.png" />
+	</a>	
+</div>
+
+We used React Native for coding and we do release new versions monthly.
+The deployment flow is fully automted thanks to [Fastlane](https://fastlane.tools/)
+
+## Harzaan Blog
+Our [blog website](https://blog.harzaan.com/) is a house of our learning resource, new updates and our contents.
+It has been made by wordpress but we a lot of work to follow our brand book design
+<div style="display: flex; justify-content: space-between">
+	<a href="/assets/images/projects/harzaan/blog1.png" width="100" target="_blank">
+		<img style="width: 80%" src="/assets/images/projects/harzaan/blog1.png" />
+	</a>
+	<a href="/assets/images/projects/harzaan/blog2.png" width="100" target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/harzaan/blog2.png" />
+	</a>	
+	<a href="/assets/images/projects/harzaan/blog1.png" width="100"  target="_blank">
+		<img  style="width: 80%" src="/assets/images/projects/harzaan/blog3.png"/>
+	</a>
+</div>
+
+## Harzaan data warehouse
+Every user actions are logged as an event with a full details.
+We use those events to create reports by[ Google bigquery](https://cloud.google.com/bigquery/) and [Google studio](https://datastudio.google.com/u/0/).
+This process enable us to create different reports for:
+1. Number of posts and post views
+2. Post reactions including calling, chatting and ...
+3. Active users and new users with a lot of filters ( platform, city, gender, ...)
+4. Vip posts
+5. Posts per categories
+6. ....
+
+<a href="/assets/images/projects/harzaan/report.png" width="100"  target="_blank">
+	<img  style="width: 80%" src="/assets/images/projects/harzaan/report.png"/>
+</a>
+
+## Features:
+
+ - Add new listing
+ - Smart and fast search
+ - Enable business to open their shop in Harzaan
+ - Chat
+ - Call/Share/Bookmark
+ - Rich filtering
+ - SSR
+ - SEO Friendly
+ - Notification center
+ - Mobile View
+ - Expiration manager
+ - User activity logging and tracking
+ - Great data house with detailed report about every aspect of the business
+ - Automated deployment using CI/CD
+ - Different environment for development and production and testing
+
+
+
+## Tech stack:
+
+- Nextjs
+- React
+- React Native
+- Firebase
+- Google bigquery
+- Google studio
+- Algolia
+- Mobx
+- Ramda
+- iOS ( React-native )
+- Android ( React-native )
+
+## Links
+
+[Website](https://harzaan.com/)
+<br/> [Android](https://play.google.com/store/apps/details?id=com.bawersystem.harzaan/)
+<br/> [iOS](https://apps.apple.com/us/app/harzaan-sell-buy-used-stuff/id1391404720)

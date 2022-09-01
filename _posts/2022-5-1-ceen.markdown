@@ -1,0 +1,52 @@
+---
+title: "Ceen"
+layout: post
+date: 2022-5-1 22:10
+tag: 
+- React Native
+- React Admin
+- Firebase
+- GraphQL
+- Hasura
+- PostgreSQL
+image: /assets/images/projects/ceen/logo.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "takeaway online service for who's living in UK. Starting from leeds city"
+category: project
+author: Fakhruddin Abdi
+externalLink: false
+---
+
+Ceen is an online voting application and my recent project.
+<br/>The polls is not just some boring academics or social questions, it could be anything, from food testing to sport, fun, daily events and so on.
+
+We developed the project by the cutting edge techs and solutions.
+The entire project developed by a small in-house team, which includes a UI/UX designer and a react native devleoper and I for admin panel development and project management.
+
+The result was great. A smoth user interface and scalable project, secure and reliable
+
+
+## Features
+ - Poll listing
+ - Real time voting and result visualization
+ - User profile
+ - Database layer security system
+ - Admin panel for data management and monitoring
+
+
+## Tech stack
+
+- React Native
+- Hasura
+- GraphQL
+- PostgreSQL
+- Firebase
+- React Admin
+- Recoil
+- iOS ( React Native )
+- Android ( React Native )
+
+## Links
+The project is under active development and still is not lunched.
