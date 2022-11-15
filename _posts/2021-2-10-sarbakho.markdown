@@ -6,6 +6,7 @@ tag:
 - ReactJs
 - Firebae
 - Javascript
+- Database
 image: /assets/images/projects/sarbakho/logo.png
 headerImage: true
 projects: true
