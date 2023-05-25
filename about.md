@@ -4,107 +4,91 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
- Hello :)
- My name is Fakhruddin Abdi.
- <br/>
- `I consider myself as a full stack developer but i used to manage projects as CEO or CTO`.
- <p> This is my story: </p>
-
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Back to 2000 </h1>
-My first exprience with computer goes back to DOS operation system.
-<br/>But I didn't do coding/hacking or something special. 
-Just enjoying gaming or playing with photo and video editors softwares With new microsoft OS - Windows series
+Greetings! My name is `Fakhruddin Abdi`.
 <br/>
+I consider myself as a full stack developer with prior experience managing projects as a CEO and CTO.
+
+<p> Allow me to share my journey with you. </p>
+<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Year 2000: The Beginning </h1>
+In the year 2000, my tryst with computers began,
+<br/>At first, it was more about gaming and exploring new photo and video editing tools bundled with the latest Microsoft Windows series, rather than coding.
 
 
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> University time at 2008 </h1>
-As a software engineer students i started university.
-<br/>In the university i spend my times on three different fields
-1. Of course coding by C, C++, HTML, CSS, Javascript, PHP.
-2. Network
-3. AI
+<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> University Journey - 2008 </h1>
 
-I started coding by `C and C++`.
-<br/> I was really impressed with concept of `OOP` and how it turn your code into a living character. 
+Entering university as a software engineering student marked a new chapter in my life.I found myself engrossed in three distinct disciplines:
+1. Programming languages including C, C++, HTML, CSS, Javascript, and PHP.
+2. Networking.
+3. Artificial Intelligence (AI).
 
-I had a comperssion idea which was exactly same as `pied piper` in [silicon valley series](https://www.imdb.com/title/tt2575988/).
+My coding journey started with `C and C++`, where I was fascinated by the concept of `Object-Oriented Programming (OOP)` and how it imbued codes with a lifelike persona. 
+
+I conceived a compression idea remarkably similar to `Pied Piper` from the [Silicon Valley series](https://www.imdb.com/title/tt2575988/).
 
 <a style="width: 50%"  href="/assets/images/about/piedpiper.jpg" target="_blank">
 	<img style="width: 90%" src="/assets/images/about/piedpiper.jpg" />
 </a>
-<br/>I presented it and this is the reference in our [blog here](http://computer-08.blogfa.com/post/184)
-<br/>The compression algorithm was Loss-Less and i used [Huffman algorithm ](https://en.wikipedia.org/wiki/Huffman_coding) in byte level of the files.
-<br/>I even wrote ا working app using C++, but sometimes it made the file bigger :)
+<br/>I publicly presented it, and posted on our [blog](http://computer-08.blogfa.com/post/184).
+<br/>The compression algorithm was lossless, employing the [Huffman algorithm](https://en.wikipedia.org/wiki/Huffman_coding) at the byte level of files. I even developed a working application using C++, although occasionally, it paradoxically enlarged the files. :)
 
-My favorite operation system was `Ubuntu` for a quite some time.
-<br/>Now Im coding and working on macOS.
+During my time at the university, I also developed a keen interest in `Network` science. 
+<br>I relished testing and simulating networks using [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer), which deepened my understanding of network protocols and their interactions.
+My final project revolved around network packet monitoring using [Wireshark](https://www.wireshark.org/).
 
-Alongside coding in the university i loved `Network` sceinse as well. 
-<br>I enjoyed testing and simulating network using [cisco packet tracer](https://www.netacad.com/courses/packet-tracer) . it helped me understand the network protocols and how they are communicating with each other. 
-My final project was monitoring the network for a specifc packages using [wireshark](https://www.wireshark.org/).
+My fascination also extended to `Artificial Intelligence (AI)`. I developed a Matlab application that trained a model to recognize flower names.
 
-Also i was really impressed by `Artificial intelligence` sceinse. I wrote a Matlab application which tried a model to find name of flowers.
+During the last two years of my university tenure, I shifted my focus towards `web development`.
+I even conducted a course for new students, imparting web development skills.
+My early projects were built with HTML, jQuery, and Bootstrap.
+However, I soon transitioned to `HTML5, Javascript, and CSS/SCSS`.
 
-
-In the last two years of my university season, `i focused on website development`.
-I even had a course for the new students, teaching them web development.
-My early projects were made with html and `HTML, jquery and bootstrap`.
-But soon i switched to `HTML5, javascript and CSS/SCSS`
-
+While I was exploring front-end development, I also ventured into the back-end realm with PHP. This was my first encounter with language frameworks that could enhance pure languages.
 <br/>
-While coding frontend, i traied backend with PHP and i came across its different frameworks and it was the first time i learned how we can build layers around pure languages and make it better.
-<br/>
-I tried `symfony, cake and Larvel and after many researches choosed Laravel.`
-Laravel helped me learning code structure and MVC design framework.
-Decoupling system into three different parts was very interesting for me.
-
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> After univeristy 2012  </h1>
-After university i immediately started my first job which was in a constructon company in sanandaj, as a developer, working on a C# project.
-<br/>So i spent a short time on `Microsoft languages like C# and WPF using MVVM architecture` ( less than a year).
-
-<p>Like many others, i quickly started to hate microsof technologies.</p>
-
-Soon i found myself as a fan of frontend development.
-And  `i have started coding in new Javascript frameworks like Angualr and now ReactJS` . Learning from FreeCodeCamp, Udacity and Mozila.
-I started with `Agnuglar 1`. I was already familar with its MVC design framework. but i didn't feel comorable with the framework really.
+After experimenting with `Symfony, Cake, and Laravel`, I ultimately chose Laravel for its user-friendly code structure and MVC design framework.
+The concept of system decoupling into three distinct parts was a revelation to me.
 
 
-`Then i came across React at 2014`, Just one year after open sourcing it in 2013.
-<br/>`I slowly started to like functional programming`. No need to spent much time to shape your object. Just define your pure function and go ahead :D.
-<br/>I browsed open source repositories and started rebuilding them. If I ever got stuck at something I would simply state my problem on the forums like SOF or the repository itself.
+<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Post University - 2012 </h1>
+Upon graduation, I swiftly transitioned into my first job at a construction company in Sanandaj. As a developer, I worked on a C# project.
+<br/>This allowed me a brief exposure to Microsoft languages like `C#` and `WPF` using the `MVVM architecture` (less than a year).
 
-<p> Now i believe javascript is the most fast growing language and ReactJS framework with its Redux/Flux/Mobx/Recoil plugins is a revolution in the programming world.
-So i will continue coding with javascript :). </p>
+<p>However, like many developers, I found Microsoft technologies somewhat restrictive.</p>
 
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> As a co-founder at 2013 </h1>
-At 2013, i joined a project as a developer, but after one year i continued as a co-founder and CTO and we got a good investment. 
-<br/>
+Soon, I discovered a passion for front-end development.
+And thus, I embarked on a journey with new JavaScript frameworks like `Angular`, and later, `ReactJS`, learning from resources like FreeCodeCamp, Udacity, and Mozilla.
+I initially started with `Angular 1`. Its MVC design framework was familiar territory, but I couldn't resonate fully with the framework.
+
+Then, in 2014, I encountered React, just a year after it was open-sourced.
+<br/>`Functional programming` began to appeal to me. The lack of the need to meticulously structure your objects, the simplicity of defining `pure functions`, and moving forward was an appealing concept.
+
+
+<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Zeyton - 2013 </h1>
+In 2013, I joined the [Zeyton](/zeyton) project as a developer and quickly transitioned to co-founder and CTO. Our venture secured significant investment.<br/>
 
 <div style="display: flex; justify-content: space-between">
-	<p style="width: 50%"> And we moved to Erbil and started from scratch </p>
+	<p style="width: 50%"> We relocated to Erbil, where we started from ground zero. </p>
 	<a style="width: 50%"  href="/assets/images/about/office-early.jpg" target="_blank">
 		<img style="width: 90%" src="/assets/images/about/office-early.jpg" />
 	</a>
 </div>
-I built a technical team and managed all the strategies from tech stack to the releases and plans.
+I took the reins of building a technical team and charted out the strategies from tech stack selection to release schedules and plans.
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px">
-	<p style="width: 50%"> At the benining we were few </p>
+	<p style="width: 50%"> In the beginning, our team was a compact unit. </p>
 	<a style="width: 50%"  href="/assets/images/about/team-early.jpg" target="_blank">
 		<img style="width: 90%" src="/assets/images/about/team-early.jpg" />
 	</a>
 </div>
 <div style="display: flex; justify-content: space-between">
-	<p style="width: 50%"> But soon we started to grow and got more team members </p>
+	<p style="width: 50%"> However, it didn't take long for us to expand and welcome more members into our growing team. </p>
 	<a style="width: 50%"  href="/assets/images/about/team-after.jpg" target="_blank">
 		<img style="width: 90%" src="/assets/images/about/team-after.jpg" />
 	</a>
 </div>
 
-I worked with a lot of great companies as a third-party, for example [Blazegraph](https://blazegraph.com/) which helped us to load the freebase data on their graph database.
-And yes, it was a great exprience.
+I had the privilege of working with numerous remarkable companies as a third-party, including [Blazegraph](https://blazegraph.com/), who assisted us in loading freebase data onto their graph database.
+Undoubtedly, it was an enriching experience.
 
-
-We build the first version and presented to the stack holders.
+We successfully built the first version and showcased it to our stakeholders.
 <div style="display: flex; justify-content: space-between">
 	<a href="/assets/images/about/presentation-zeyton-3.jpg" width="100" target="_blank">
 		<img style="width: 80%" src="/assets/images/about/presentation-zeyton-3.jpg" />
@@ -117,37 +101,32 @@ We build the first version and presented to the stack holders.
 	</a>
 </div>
 
+However, just when we were on the cusp of launching and close to the first release, the management board decided to transition the project to different hands, which unfortunately led to its eventual discontinuation.
 
 
-But right before lunching and when we were close to the first release, the management board dedcided to handover the project to someone else and later the project died.
+<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> From Zeyton to Softcode - 2016 </h1>
+Post Zeyton, Dr Layik (our project manager at Zeyton) and I co-founded [Softcode](https://softcode.co.uk/), enabling us to focus on developing our own projects.
 
+Our maiden project was a social platform akin to Instagram, with the unique spin of emphasizing topics over friendship networks.
+<br/>We christened it [Fotomantic](/Fotomantic) (although we had a soft spot for the domain "photograph", which was unfortunately taken already).
 
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Left Zeyton, start Softcode at 2016 </h1>
-After Zeyton I and Dr Layik (Our project manager in Zeyton) founded [Softcode](https://softcode.co.uk/) and started working on our own projects.
+We developed an MVP using Firebase and Zeyton's graph database. The outcome was encouraging.
+However, we soon realized the challenge of sustaining the project within our financial means.
 
-
-The first project was a social platofrm like instagram but focusing on topics instead of friendship.
-<br/>We named it [Fotomantic](https://fotomantic-33bb7.web.app) ( but we loved photograph domain which was taken before)
-
-We created the MVP version using firebase and Zeyton graph datrabase.The result was great.
-But soon we found out its almost impossible to run it with our own budget.
-
-So we decided to temporary switch to another project and we agreed to work on [Hotorder](https://hotorder.co.uk/).
+Subsequently, we pivoted to another project, settling on [Hotorder](/Hotorder).
 <br/>
-Hotorder is a food delivery platform, supporting multi shop, white label feature and no record history.
-The target was UK market.
-We used Meteor and ReactJS to code the project and after two months, we released the first version.
-We even linked it with several resturants, but unfortunately due to financial problems we couldn't wait more.
-So stopped all the projects and started accepting client projects under softcode branding.
+Hotorder is a multi-shop, white-label food delivery platform that doesn't record history. Our target audience was the UK market.
+We utilized Meteor and ReactJS to develop the project, and within two months, we rolled out the first version.
+We managed to integrate it with several restaurants, but due to financial constraints, we were unable to sustain the projects.
+Hence, we transitioned to client projects under the Softcode brand.
 
-
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Start Harzaan at 2017 </h1>
+<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Harzaan - The New Beginnings in 2017 </h1>
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px">
-	<p style="width: 50%"> But i didn't give up :), i founded another project -
+	<p style="width: 50%"> I didn't give up with startups, I ventured into a new project -
 		<a href="/harzaan" target="_blank">
 			Harzaan
-		</a>
-		<br/>Harzaan is a classified ads service for Iraq market.
+		</a>.
+		<br/>Harzaan is a platform for classified ads for Iraq market.
   </p>
 	<a style="width: 50%"  href="/assets/images/about/harzaan-first.jpg" target="_blank">
 		<img style="width: 90%" src="/assets/images/about/harzaan-first.jpg" />
@@ -155,33 +134,29 @@ So stopped all the projects and started accepting client projects under softcode
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px">
-	<p style="width: 50%"> I build a team in Iran and started Harzaan as a classified ads service for Iraqi users. </p>
+	<p style="width: 50%"> I assembled a team in Iran and launched Harzaan as a classified ads service for the users in Iraq. </p>
 	<a style="width: 50%"  href="/assets/images/about/office-sna-old.jpg" target="_blank">
 		<img style="width: 90%" src="/assets/images/about/office-sna-old.jpg" />
 	</a>
 </div>
 
-We build the first version and released it at 2017. It was very promising, many people started sending their posts on Harzaan and we passed 5K downloads in the first month.
-We grew up and hits 50K downloads in the next 6 months and the number of daily posts riched about 200 per days.
+We built and released the first version in 2017. The response was overwhelming, with numerous people posting their ads on Harzaan. In the first month alone, we saw over 5K downloads. This rapid growth persisted, and we hit 50K downloads in the next six months. Daily ad postings reached about 200 per day.
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px">
-	<p style="width: 50%"> We applied for Science and Technology Park Of Kurdistan and they do support us by an office and mentorship. </p>
+	<p style="width: 50%"> Our application to the Science and Technology Park Of Kurdistan was accepted and they supported us with office space and mentorship. </p>
 	<a style="width: 50%"  href="/assets/images/about/office-sna.jpg" target="_blank">
 		<img style="width: 90%" src="/assets/images/about/office-sna.jpg" />
 	</a>
 </div>
 
-Then i started searching for an investment to do advertisements and build a full time team.
+At this stage, I started seeking investors to finance our advertising efforts and expand our full-time team.
 
-After negotiating with multiple companies, finally we agreed with [Box Advertisement](https://boxads.co) and i started a new journey in Iraq.
+After negotiations with several potential partners, we reached an agreement with [Box Advertisement](https://boxads.co).
 
-The first two years i worked in Iran office and managed the teams there.
-But later i  moved to Erbil to analyse the market.
-In the mean time i worked with [Knowledge University](https://knu.edu.iq) as IT Manager.
+For the initial two years, I worked out of our Iran office, managing the teams. Later, I relocated to Erbil to gain a deeper understanding of the market.
 
-And Covid started...
-I had to come back to Iran butr after sex months, again i moved to Sulaymaniyah and stayed there until now as a CEO/CTO of Harzaan
-And its about 4 years i have full focus on Harzaan to make market leader in Iraq, Insha'allah.
+Then came the COVID-19 pandemic...
 
-That's it.My professional journey so far.
+I had to return to Iran, but six months later, I moved back to Sulaymaniyah, where I currently reside, serving as the CEO/CTO of Harzaan. For the past four years, my entire focus has been on establishing Harzaan as a market leader in Iraq, Insha'allah.
 
+And that sums up my professional journey thus far.
