@@ -2,9 +2,9 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Greetings! My name is `Fakhruddin Abdi`.
+<img style="width: 100%; margin-bottom: 10px" src="/assets/images/about/fakhruddin.jpeg">
+Greetings! My name is **Fakhruddin Abdi**.
 <br/>
 I consider myself as a full stack developer with prior experience managing projects as a CEO and CTO.
 
@@ -13,7 +13,7 @@ I consider myself as a full stack developer with prior experience managing proje
 In the year 2000, my tryst with computers began,
 <br/>At first, it was more about gaming and exploring new photo and video editing tools bundled with the latest Microsoft Windows series, rather than coding.
 
-
+<br/>
 <h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> University Journey - 2008 </h1>
 
 Entering university as a software engineering student marked a new chapter in my life.I found myself engrossed in three distinct disciplines:
@@ -21,9 +21,9 @@ Entering university as a software engineering student marked a new chapter in my
 2. Networking.
 3. Artificial Intelligence (AI).
 
-My coding journey started with `C and C++`, where I was fascinated by the concept of `Object-Oriented Programming (OOP)` and how it imbued codes with a lifelike persona. 
+My coding journey started with **C and C++**, where I was fascinated by the concept of **Object-Oriented Programming (OOP)** and how it imbued codes with a lifelike persona. 
 
-I conceived a compression idea remarkably similar to `Pied Piper` from the [Silicon Valley series](https://www.imdb.com/title/tt2575988/).
+I conceived a compression idea remarkably similar to **Pied Piper** from the [Silicon Valley series](https://www.imdb.com/title/tt2575988/).
 
 <a style="width: 50%"  href="/assets/images/about/piedpiper.jpg" target="_blank">
 	<img style="width: 90%" src="/assets/images/about/piedpiper.jpg" />
@@ -31,37 +31,37 @@ I conceived a compression idea remarkably similar to `Pied Piper` from the [Sili
 <br/>I publicly presented it, and posted on our [blog](http://computer-08.blogfa.com/post/184).
 <br/>The compression algorithm was lossless, employing the [Huffman algorithm](https://en.wikipedia.org/wiki/Huffman_coding) at the byte level of files. I even developed a working application using C++, although occasionally, it paradoxically enlarged the files. :)
 
-During my time at the university, I also developed a keen interest in `Network` science. 
+During my time at the university, I also developed a keen interest in **Network** science. 
 <br>I relished testing and simulating networks using [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer), which deepened my understanding of network protocols and their interactions.
 My final project revolved around network packet monitoring using [Wireshark](https://www.wireshark.org/).
 
-My fascination also extended to `Artificial Intelligence (AI)`. I developed a Matlab application that trained a model to recognize flower names.
+My fascination also extended to **Artificial Intelligence (AI)**. I developed a Matlab application that trained a model to recognize flower names.
 
-During the last two years of my university tenure, I shifted my focus towards `web development`.
+During the last two years of my university tenure, I shifted my focus towards **web development**.
 I even conducted a course for new students, imparting web development skills.
 My early projects were built with HTML, jQuery, and Bootstrap.
-However, I soon transitioned to `HTML5, Javascript, and CSS/SCSS`.
+However, I soon transitioned to **HTML5, Javascript, and CSS/SCSS**.
 
 While I was exploring front-end development, I also ventured into the back-end realm with PHP. This was my first encounter with language frameworks that could enhance pure languages.
 <br/>
-After experimenting with `Symfony, Cake, and Laravel`, I ultimately chose Laravel for its user-friendly code structure and MVC design framework.
+After experimenting with **Symfony, Cake, and Laravel**, I ultimately chose Laravel for its user-friendly code structure and MVC design framework.
 The concept of system decoupling into three distinct parts was a revelation to me.
 
-
+<br/>
 <h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Post University - 2012 </h1>
 Upon graduation, I swiftly transitioned into my first job at a construction company in Sanandaj. As a developer, I worked on a C# project.
-<br/>This allowed me a brief exposure to Microsoft languages like `C#` and `WPF` using the `MVVM architecture` (less than a year).
+<br/>This allowed me a brief exposure to Microsoft languages like **C#** and **WPF** using the **MVVM architecture** (less than a year).
 
 <p>However, like many developers, I found Microsoft technologies somewhat restrictive.</p>
 
 Soon, I discovered a passion for front-end development.
-And thus, I embarked on a journey with new JavaScript frameworks like `Angular`, and later, `ReactJS`, learning from resources like FreeCodeCamp, Udacity, and Mozilla.
-I initially started with `Angular 1`. Its MVC design framework was familiar territory, but I couldn't resonate fully with the framework.
+And thus, I embarked on a journey with new JavaScript frameworks like **Angular**, and later, **ReactJS**, learning from resources like FreeCodeCamp, Udacity, and Mozilla.
+I initially started with **Angular 1**. Its MVC design framework was familiar territory, but I couldn't resonate fully with the framework.
 
 Then, in 2014, I encountered React, just a year after it was open-sourced.
-<br/>`Functional programming` began to appeal to me. The lack of the need to meticulously structure your objects, the simplicity of defining `pure functions`, and moving forward was an appealing concept.
+<br/>**Functional programming** began to appeal to me. The lack of the need to meticulously structure your objects, the simplicity of defining **pure functions**, and moving forward was an appealing concept.
 
-
+<br/>
 <h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Zeyton - 2013 </h1>
 In 2013, I joined the [Zeyton](/zeyton) project as a developer and quickly transitioned to co-founder and CTO. Our venture secured significant investment.<br/>
 
@@ -103,7 +103,7 @@ We successfully built the first version and showcased it to our stakeholders.
 
 However, just when we were on the cusp of launching and close to the first release, the management board decided to transition the project to different hands, which unfortunately led to its eventual discontinuation.
 
-
+<br/>
 <h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> From Zeyton to Softcode - 2016 </h1>
 Post Zeyton, Dr Layik (our project manager at Zeyton) and I co-founded [Softcode](https://softcode.co.uk/), enabling us to focus on developing our own projects.
 
@@ -120,6 +120,7 @@ We utilized Meteor and ReactJS to develop the project, and within two months, we
 We managed to integrate it with several restaurants, but due to financial constraints, we were unable to sustain the projects.
 Hence, we transitioned to client projects under the Softcode brand.
 
+<br/>
 <h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Harzaan - The New Beginnings in 2017 </h1>
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px">
 	<p style="width: 50%"> I didn't give up with startups, I ventured into a new project -
@@ -158,5 +159,36 @@ For the initial two years, I worked out of our Iran office, managing the teams. 
 Then came the COVID-19 pandemic...
 
 I had to return to Iran, but six months later, I moved back to Sulaymaniyah, where I currently reside, serving as the CEO/CTO of Harzaan. For the past four years, my entire focus has been on establishing Harzaan as a market leader in Iraq, Insha'allah.
+
+That's a good start! Here's how you could enhance the section:
+
+<br/>
+<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Box Advertising - Development Manager </h1>
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px">
+	<p style="width: 60%"> 
+		While driving Harzaan's growth, I also envisioned and realized the creation of a dedicated software development arm within our partner company, Box Advertising. Thus, Box Development was born.
+	</p>
+	<a style="width: 40%"  href="/assets/images/about/boxadvertising.png" target="_blank">
+		<img style="width: 90%" src="/assets/images/about/boxadvertising.png" />
+	</a>
+</div>
+
+Assembled from the ground up, this team became an incubator for learning, collaboration, and innovation. Here, we honed our skills in a multitude of domains, from Drupal and WordPress to custom solutions and Odoo databases.
+
+Our work at Box Development over the next three years revolved significantly around Odoo ERP solutions, a robust platform that our clients found invaluable. Our key goal was to create and maintain a set of efficient and practical tools that would address the unique business needs of each client.
+
+A significant achievement in this endeavor was the development of three custom products on Odoo 14 Community. We deftly navigated through Odoo's inherently complex building, deployment, and updating processes, ultimately automating them for ease of use. 
+
+Our product portfolio includes:
+
+1. **Box City**: This is a comprehensive city management system designed to streamline the process of selling apartments. It handles everything from different payment plans and installments to complete accounting management.
+
+2. **Box Clinic**: A versatile solution, Box Clinic aids in managing every aspect of clinic operations, from patient registration to visit management, and beyond.
+
+3. **Box Post**: This state-of-the-art shipment system manages the end-to-end process of sending posts from Kurdistan to Europe and vice versa. It efficiently handles package receipt, delivery, and tracking, ensuring a smooth and reliable postal service.
+
+These solutions, embodying our unwavering dedication to quality and innovation, have been instrumental in driving digital transformation for our clients in a variety of sectors. We remain committed to pushing the boundaries of what's possible in the realm of software development.
+
 
 And that sums up my professional journey thus far.
