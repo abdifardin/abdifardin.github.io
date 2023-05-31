@@ -1,0 +1,99 @@
+---
+title: "UK Startup Visa"
+layout: post
+date: 2022-9-10 08:00
+tag: 
+- Visa
+- UK
+- Personal Experience
+
+image: /assets/images/blogs/uk/flag.jpeg
+headerImage: true
+projects: false
+hidden: false # don't count this post in blog pagination
+description: "A classified ads website for kurdish people"
+category: blog
+author: Fakhruddin Abdi
+externalLink: false
+---
+
+<img style="width: 100%" src="/assets/images/blogs/uk/passport.jpeg" />
+
+The UK Startup Visa is a relatively new route designed to attract international talent to the UK, with the aim of fostering innovation and growth in the country's economy. It provides an opportunity for entrepreneurs with a unique and scalable business idea to establish their business in the UK. Navigating through the visa process, however, can be complex and daunting, especially for first-time applicants. 
+
+This document aims to provide a comprehensive step-by-step recount of my personal journey to securing the UK Startup Visa. From choosing an endorsing body and refining my business proposal, to the process of securing essential documents such as English proficiency test scores, TB test results, and bank statements, I've chronicled the entire experience. I'll also share insights into the visa application submission process, the wait time, and the subsequent approval. 
+
+<h3 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> 
+	Important
+</h3>
+If you are considering the UK as the foundation for your entrepreneurial ambitions, it's crucial to be informed about the recent changes in immigration policy. The Startup Visa, a once-popular route for overseas entrepreneurs, was officially discontinued in April 2023. However, this does not mark the end of opportunities for startups in the UK.
+
+The UK government has introduced a new route known as the Innovator Visa. This new immigration pathway, while bearing similarities to the former Startup Visa, has some key differences that potential applicants should be aware of. It continues to support the goal of attracting global entrepreneurial talent to the UK.
+
+With this guide, we aim to provide a comprehensive and practical resource to assist you in understanding the new requirements of the Innovator Visa, helping you navigate your way through the application process. It is crucial to stay up-to-date and informed, ensuring your journey to launching your business in the UK is as smooth and successful as possible.
+The intention is to provide a helpful guide and practical resource to potential applicants who are considering the UK as a launching pad for their entrepreneurial ambitions.
+
+<h3 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> 
+	Endorsement Application
+</h3>
+
+In the pursuit of endorsement, I navigated through various bodies, eventually opting for one which I applied to via their platform, _Dri.ai_. This application process involved a $350 fee.
+
+To my dismay, my first and second attempts were rejected. The feedback received was crucial though. It called for a stronger alignment with their defined criteria: *innovation*, *viability*, and *scalability*. 
+
+Using this feedback as a guide, I diligently revised my business proposal. I complemented this by conducting market surveys to amass additional supporting data.
+
+Finally, after my third application, my efforts bore fruit. I was met with acceptance and the sought-after endorsement. The journey was demanding, yet ultimately invaluable in shaping my understanding and approach.
+
+<h3 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> 
+	Endorsement Letter
+</h3>
+As part of the process, I participated in an _online interview_. This stage allowed for an engaging and detailed conversation about my proposed ideas. 
+
+Following this, a series of email exchanges occurred between the endorsement body and me. The primary focus was on seeking clarification and approval of the _Innovation, Viability, and Scalability (IVS)_ document. 
+
+Over time, these consistent interactions and continuous refinements shaped the IVS document. Ultimately, it evolved into the _endorsement letter_, signifying a crucial achievement in my journey.
+
+<h3 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> 
+	Visa Application Preparation
+</h3>
+In this journey, there were several key _documents_ that I needed to prepare. This included an _English proficiency test_ to demonstrate my language capability, a _bank statement_ to provide proof of financial stability, and a _TB test_ to confirm my health status. These documents were crucial in proceeding forward and establishing my eligibility.
+
+<h3 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> 
+	English Proficiency Test
+</h3>
+My initial plan was to take the _LanguageCert_ test. However, due to unforeseen scheduling conflicts, I had to switch gears last minute and register for the _IELTS_ exam. Despite the unexpected change, I was able to pass the IELTS test with a score of 5.5. This score met the requirement for the startup visa, a crucial step in my journey.
+
+
+<h3 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> 
+	TB Test
+</h3>
+
+The _TB test_ is a requisite for certain countries, including Iraq. This requirement applies even if you are not of Iraqi nationality, but have visited Iraq within the last 6 months. In compliance with these guidelines, I took the test at the _IOM center in Erbil_ and subsequently received the result. This was another crucial step to ensure my eligibility for the visa process.
+
+
+<h3 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> 
+	Bank Statement
+</h3>
+
+
+Financial stability was another key criterion for the process. I ensured to maintain a balance of _at least £1280_ in my account for a _consecutive 28-day_ period. As a means to provide proof of this, I furnished _official documentation_ from the bank, thus meeting another important requirement for the visa process.
+
+
+When starting the application process on the Home office website, the initial steps were straightforward. However, as I progressed, I was asked to fill in the details of my previous travels, including the countries I had visited in the past 10 years.
+
+In addition to the application form, there were a series of other documents that needed to be prepared and included. This included the English language proficiency certificate, TB test results, endorsement letter, bank statements, a valid passport, and some other supporting documents. 
+
+Another requirement was an in-person visit to a visa center in order to provide biometric data.
+According to the Home office guideline, if you ask for Startup/Innovator visa, you have to apply in your home country.
+I applied in Tehran, Heravi center.
+
+When the application was submitted, it took a few days before I was contacted to schedule the in-person visit. During this visit, I needed to bring all of the necessary documents with me for review. 
+
+Following this, there was a waiting period during which the UK Home Office reviews the application. The standard processing time is around 3 weeks, but it can take longer in some cases. I received my visa decision in just over a week.
+
+
+
+And that's the summarized journey of getting my UK Startup visa. It was a long and sometimes complex process, but it was worth it in the end. With this visa, I am able to start my entrepreneurial journey in the UK, and I am very excited about what lies ahead. 
+
+I hope this overview provides valuable insight to those who are considering or are currently in the process of applying for a UK Startup visa. The key is to be patient, meticulous in your preparations, and persistent. Good luck!
