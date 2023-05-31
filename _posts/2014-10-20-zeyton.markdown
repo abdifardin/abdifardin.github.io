@@ -3,9 +3,11 @@ title: "Zeyton"
 layout: post
 date: 2014-10-20 22:10
 tag: 
-- ReactJs
+- Social Knowledge
 - Semantic Web
+- ReactJs
 - Freebase
+- Graph Database
 - Triplestore
 - Cassandra
 - Drupal
