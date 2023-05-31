@@ -178,7 +178,7 @@ Assembled from the ground up, this team became an incubator for learning, collab
 
 Our work at Box Development over the next three years revolved significantly around Odoo ERP solutions, a robust platform that our clients found invaluable. Our key goal was to create and maintain a set of efficient and practical tools that would address the unique business needs of each client.
 
-A significant achievement in this endeavor was the development of three custom products on Odoo 14 Community. We deftly navigated through Odoo's inherently complex building, deployment, and updating processes, ultimately automating them for ease of use. 
+A significant achievement in this endeavor was the development of four custom products on Odoo 14 Community. We deftly navigated through Odoo's inherently complex building, deployment, and updating processes, ultimately automating them for ease of use. 
 
 Our product portfolio includes:
 
@@ -188,7 +188,11 @@ Our product portfolio includes:
 
 3. **Box Post**: This state-of-the-art shipment system manages the end-to-end process of sending posts from Kurdistan to Europe and vice versa. It efficiently handles package receipt, delivery, and tracking, ensuring a smooth and reliable postal service.
 
-These solutions, embodying our unwavering dedication to quality and innovation, have been instrumental in driving digital transformation for our clients in a variety of sectors. We remain committed to pushing the boundaries of what's possible in the realm of software development.
+4. **Box Company**: Our most comprehensive solution to date, Box Company is designed to manage every facet of a business. This encompasses everything from Human Resources (HR) and Customer Relationship Management (CRM) to Marketing, Accounting, and more. It is a one-stop solution that caters to the diverse, interconnected needs of modern businesses. Our aim with Box Company is to deliver an integrated platform that drives operational efficiency and enhances business outcomes.
+
+These solutions, embodying our unwavering dedication to quality and innovation, have been instrumental in driving digital transformation for our clients in a variety of sectors.
+
+
 
 
 And that sums up my professional journey thus far.
