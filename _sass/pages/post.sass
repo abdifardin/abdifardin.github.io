@@ -58,3 +58,39 @@
             margin: 1em 0
         .next
             text-align: right
+
+.project
+    display: flex
+    align-items: center
+
+    > .title
+        text-align: center
+        margin-bottom: 3rem
+
+    > .date,
+    > .project-tags
+        color: $gama
+        font-weight: 300
+        font-size: 1.4rem
+        text-transform: uppercase
+        text-align: center
+        display: block
+        letter-spacing: 1px
+        -webkit-font-smoothing: antialiased
+        text-rendering: optimizeLegibility
+
+    > .project-tags > .item
+        padding: 2px 8px
+        border-radius: 3px
+        font-size: 1.1rem
+        background: $epsilon
+        color: $alpha
+        letter-spacing: 1px
+        margin: 3px 1px
+        text-decoration: none
+        display: inline-block
+        
+.project-row
+    display: flex
+    justify-content: space-between
+    flex-direction: row-reverse
