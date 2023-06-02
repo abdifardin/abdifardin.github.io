@@ -2,11 +2,12 @@
 title: "Corona KRG"
 layout: post
 date: 2020-2-10 22:10
-tag: 
+tag:
+- Health
 - ReactJs
 - Firebae
 - Javascript
-- 
+- Covid
 image: /assets/images/projects/corona/logo.png
 headerImage: true
 projects: true
@@ -20,20 +21,22 @@ externalLink: false
 ![Screenshot](/assets/images/projects/corona/home.png)
 
 
-Ad the begning of the covid outbreaks, we received a project from Sulaymaniyah health orginzation to build an online database system to manage the covid tests.
-We immediately started building the system and within a month we could deliver it to the client.
-It was a user frinedly, fully custom, react backed database system which let the goverment staff add and manage the records and let the patient check their test results.
+At the onset of the COVID-19 pandemic, we were entrusted with a critical project from the Sulaymaniyah Health Organization: to construct an online database system for managing COVID-19 test results. Recognizing the urgency of the situation, we promptly set to work.
+
+In a swift span of just one month, I was able to deliver a fully customized, React-backed database system to the client. This intuitive platform was engineered to empower government staff, allowing them to add and manage records seamlessly. In parallel, it also provided patients with the ability to check their test results conveniently.
+
+Our prompt response and the user-friendly nature of our system allowed the Sulaymaniyah Health Organization to streamline their operations during a crucial time. In a broader perspective, it underscored our commitment to delivering cutting-edge solutions when it matters the most.
 
 <a href="/assets/images/projects/corona/new.png" width="100" target="_blank">
   <img style="width: 80%" src="/assets/images/projects/corona/new.png" />
 </a>
 ## Features
- - User management system
- - Add a new record
- - Automatic printer detection and printing
- - Seaarch and filters the history list
- - Multi branch 
- - Data visualization and more
+ - User Management System
+ - Automatic Printer Detection and Printing
+ - Search and Filtering
+ - Multi-Branch Capability
+ - Data Visualization
+
 
 ## Tech stack
 

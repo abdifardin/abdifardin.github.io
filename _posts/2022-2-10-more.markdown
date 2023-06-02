@@ -1,5 +1,5 @@
 ---
-title: "More"
+title: "More..."
 layout: post
 date: 2012-1-10 22:10
 tag: 
@@ -17,9 +17,9 @@ author: Fakhruddin Abdi
 externalLink: false
 ---
 
-During the last 15 years of development i have done many projects but some of them either i developed using a third-party company/framework or the client never published
-   
-I just list them here with a short description for reference.
+Throughout my twelve-year career in development, I've had the opportunity to work on numerous projects. While some of these were undertaken in conjunction with third-party companies or utilized pre-existing frameworks, others were unfortunately never published by the clients.
+
+Below, you'll find a curated selection of these projects, each accompanied by a concise description for your reference.
 
 ### 1.Asankar
 [Asankar](https://asankar.co)

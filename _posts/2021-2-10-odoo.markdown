@@ -1,0 +1,148 @@
+---
+title: "Odoo apps"
+layout: post
+date: 2022-2-10 22:10
+tag: 
+- ERP
+- CRM
+- Accounting
+- Logistic
+- Clinic
+- City
+- Sale
+- Purchase
+- Invoicing
+
+image: /assets/images/projects/odoo/odoo.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Unveiling four transformative Odoo apps reshaping delivery, city, clinic, and company management"
+category: project
+author: Fakhruddin Abdi
+externalLink: false
+---
+
+![Screenshot](/assets/images/projects/odoo/odoo-erp.png)
+
+Welcome to a glimpse into my journey as an Odoo developer. In this blog post, I'm excited to share with you four transformative applications I've developed using the versatile Odoo platform. These apps, purpose-built for post delivery, city management, clinic management, and company management systems.  Let's embark on this exploration of innovative solutions together!
+
+<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> 
+	Company Management System
+</h1>
+![Screenshot](/assets/images/projects/odoo/company.png)
+Our Company Management System is an all-encompassing, dynamic application developed using the versatile Odoo 14 platform. It's designed to streamline various business processes and enhance operational efficiency, paving the way for improved productivity and a seamless work environment.
+
+**List of Modules:**
+
+1. **Discuss**: Facilitates internal communication, enhancing collaboration and team interaction.
+2. **CRM**: Manages customer relationships and optimizes the sales process.
+3. **Project**: Oversees project activities, deadlines, and progress.
+4. **Sales**: Handles sales order processing, quotations, and customer contracts.
+5. **Invoicing**: Manages billing, payments, and tracks receivables.
+6. **Email Marketing**: Designs and executes targeted email campaigns.
+7. **Link Tracker**: Tracks links in campaigns to evaluate performance.
+8. **Timesheets**: Records time spent on tasks and projects.
+9. **Surveys**: Creates and distributes surveys for feedback collection.
+10. **Employees**: Manages employee information and HR processes.
+11. **Recruitments**: Handles job postings, applications, and hiring processes.
+12. **Attendances**: Records and monitors employee attendance.
+13. **Time Off**: Manages employee leaves and time-off requests.
+14. **Dashboard**: Presents key business metrics in a user-friendly visual interface.
+15. **Website**: Supports website management and online presence.
+16. **Contacts**: Maintains a database of all business contacts.
+17. **Calendar**: Manages schedules, appointments, and reminders.
+18. **Users**: Manages user profiles, access rights, and roles.
+19. **Setting**: Configures system settings to align with business needs.
+20. **Accounting**: Manages financial transactions, reports, and fiscal health.
+21. **Notes**: Supports note-taking and task planning for better organization. 
+
+To further enhance the robustness and connectivity of our Company Management System, we've developed a custom module that seamlessly integrates with Slack, a leading collaboration hub. This strategic integration redirects all system notifications directly to Slack, allowing users to stay updated without needing to switch between platforms. 
+
+Crucially, our system also supports user mentioning within project tasks. By simply mentioning a colleague in a task, the system automatically notifies the relevant individual on Slack. This feature boosts communication efficiency and ensures that everyone stays on the same page, fostering a more collaborative and productive work environment. 
+
+
+<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> 
+	City Management System
+</h1>
+![Screenshot](/assets/images/projects/odoo/city.png)
+
+Our City Management System, is a robust and innovative solution designed to simplify and optimize city administration tasks. It puts a special focus on streamlining the process of building sales, a feature that has been hailed as its key strength.
+
+One standout feature that users have lauded is the system's ability to visually represent buildings. Through intuitive graphical representation, users can navigate the city's landscape, offering a comprehensive and immediate understanding of available and sold properties. This feature dramatically simplifies the sales process and brings an unmatched level of clarity to the city's real estate portfolio. For a clear idea of this feature, refer to the included screenshot.
+![Screenshot](/assets/images/projects/odoo/buildings.png)
+
+
+**List of Modules:**
+
+1. **Buildings**: Handles the management of city buildings and property, integrating a visual representation feature.
+2. **Sales**: Manages property sales, tracking every stage from initial interest to final sale.
+3. **Payments**: Streamlines payment processing and tracks financial transactions related to property sales.
+4. **Customers**: Manages all buyer and potential buyer information and relationships.
+5. **Dashboard**: Presents essential real estate metrics in an accessible, visual format.
+6. **Reports**: Provides comprehensive reporting on sales, payments, and customer data.
+
+This City Management System serves as a comprehensive toolkit for efficient city administration, offering a combination of standard and unique features to meet the dynamic needs of modern city management.
+
+<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> 
+	Post Management System
+</h1>
+![Screenshot](/assets/images/projects/odoo/post.png)
+**Post Management System - Odoo 14**
+
+Our Post Management System, is a dynamic and user-friendly solution designed to revolutionize the workings of postal services. At the heart of this system is the innovative approach to package tracking and transfers, enabling a seamless and efficient postal operation.
+
+A signature feature of this system is the holistic management of posts, packages, and transfers. This allows for efficient tracking of each item, from the moment it enters the system until it reaches its final destination. This real-time tracking capability, coupled with an interactive interface, significantly simplifies the postal handling process, providing transparency and a high level of operational efficiency.
+
+**List of Modules:**
+
+1. **Posts**: Manages the handling, processing, and delivery of posts.
+2. **Packages**: Tracks each package from receipt to final delivery.
+3. **Transfers**: Oversees the transfer of posts and packages between branches.
+4. **Branches**: Manages information about various branches and their operations.
+5. **Dashboard**: Presents key postal service metrics in an intuitive, visual format.
+6. **Staff**: Handles the management of all staff details and responsibilities.
+7. **Chat**: Facilitates communication within the system for improved collaboration.
+8. **Countries**: Manages country information for international shipping services.
+9. **Products**: Catalogs the various products and services offered.
+10. **Driver**: Manages driver details, schedules, and route assignments.
+11. **Website**: Supports the management and operation of the postal service's online presence.
+12. **Reports**: Generates comprehensive reports on various aspects of the postal operation.
+13. **Customers**: Manages customer information and interactions.
+
+This Post Management System acts as a complete toolkit for postal service management, merging conventional functionalities with innovative features to cater to the evolving needs of the post and parcel industry.
+
+<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> 
+	Clinic Management System
+</h1>
+![Screenshot](/assets/images/projects/odoo/clinic.png)
+
+Our Clinic Management System, is a powerful and streamlined tool designed to revolutionize clinic operations. A highlight of this system is its adept handling of patient data and appointments, paving the way for enhanced patient care and efficient clinic workflow.
+
+A distinguishing feature of this system is its seamless integration of patient management, appointments, and visit tracking. This interconnected approach facilitates complete tracking of each patient's journey, right from their initial registration to subsequent visits, laboratory tests, and appointments. This feature, combined with a user-friendly interface, significantly simplifies the healthcare management process, ensuring a smoother and more patient-centric clinic operation.
+
+**List of Modules:**
+
+1. **Hospital Management**: Overviews the entire clinic operations and logistics.
+2. **Patients**: Manages patient information, records, and interactions.
+3. **Visits**: Tracks patient visits and maintains a comprehensive visit history.
+4. **Laboratory**: Manages laboratory test records and results.
+5. **Appointments**: Handles patient appointment scheduling and tracking.
+6. **Staff**: Manages staff details, roles, and schedules.
+7. **Dashboard**: Presents key healthcare metrics in a visually appealing and intuitive format.
+8. **CRM**: Manages customer relationships and optimizes the patient engagement process.
+9. **Website**: Supports the management of the clinic's online presence.
+10. **Setting**: Configures system settings to align with clinic needs.
+
+This Clinic Management System serves as a comprehensive toolkit for modern healthcare management, blending traditional functionalities with innovative features to cater to the ever-changing needs of the medical field.
+
+## Tech stack
+
+- Odoo 14
+- Docker
+
+## Links
+[Grand boulevard](http://grandblvd.org) <br/>
+[Atlascruise](https://atlascruise.net) <br/>
+[Slemani Vein Center](http://slemaniveincenter.com) <br/>
+[Box Company](https://company.boxads.co) <br/>
