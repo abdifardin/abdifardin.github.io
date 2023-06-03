@@ -3,7 +3,6 @@ title: "Corona KRG"
 layout: post
 date: 2020-2-10 22:10
 tag:
-- Health
 - ReactJs
 - Firebae
 - Javascript

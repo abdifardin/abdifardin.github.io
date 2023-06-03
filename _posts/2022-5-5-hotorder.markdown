@@ -3,7 +3,6 @@ title: "Hotorder"
 layout: post
 date: 2017-5-5 22:10
 tag: 
-- Food Delivery
 - MeteorJs
 - ReactJs
 - Javascript

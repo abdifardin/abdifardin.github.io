@@ -3,7 +3,6 @@ title: "Ceen"
 layout: post
 date: 2022-5-1 22:10
 tag: 
-- Voting platform
 - React Native
 - GraphQL
 - Firebase
