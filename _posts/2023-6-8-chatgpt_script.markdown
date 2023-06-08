@@ -4,6 +4,7 @@ layout: post
 date: 2023-6-8 08:00
 tag: 
 - AI
+- ChatGPT
 - Automation
 - Bash script
 
