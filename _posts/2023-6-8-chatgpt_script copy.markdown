@@ -12,7 +12,7 @@ image: /assets/images/blogs/script/logo.png
 headerImage: true
 projects: false
 hidden: false # don't count this post in blog pagination
-description: "Harnessing the Power of ChatGPT-4 for Bash Scripting and Automation"
+description: "The Quran's preservation through memorization by millions of Muslims mirrors the immutable ledger of blockchain technology."
 category: blog
 author: Fakhruddin Abdi
 externalLink: false
