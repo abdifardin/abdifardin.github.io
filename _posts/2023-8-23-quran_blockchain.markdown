@@ -8,7 +8,7 @@ tag:
 - Bitcoin
 - Quran
 
-image: /assets/images/blogs/script/logo.png
+image: /assets/images/blogs/quran/logo.jpg
 headerImage: true
 projects: false
 hidden: false # don't count this post in blog pagination
