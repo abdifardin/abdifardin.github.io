@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-<img style="width: 100%; margin-bottom: 10px" src="/assets/images/about/fakhruddin.jpeg">
+<img style="width: 100%; margin-bottom: 10px" src="/assets/images/about/fakhruddinUK.jpg">
 Greetings! My name is **Fakhruddin Abdi**.
 <br/>
 I consider myself as a full stack developer with prior experience managing projects as a CEO and CTO.
