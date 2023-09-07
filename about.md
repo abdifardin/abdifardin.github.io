@@ -104,7 +104,7 @@ We successfully built the first version and showcased it to our stakeholders.
 However, just when we were on the cusp of launching and close to the first release, the management board decided to transition the project to different hands, which unfortunately led to its eventual discontinuation.
 
 <br/>
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> From Zeyton to Softcode - 2016 </h1>
+<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Softcode - 2016 </h1>
 Post Zeyton, Dr Layik (our project manager at Zeyton) and I co-founded [Softcode](https://softcode.co.uk/), enabling us to focus on developing our own projects.
 
 Our maiden project was a social platform akin to Instagram, with the unique spin of emphasizing topics over friendship networks.
