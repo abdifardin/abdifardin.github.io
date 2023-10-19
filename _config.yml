@@ -34,10 +34,10 @@ disqus:
   categories: [blog, project, about] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: fakhruddin.abdi
+# facebook: fakhruddin.abdi
 twitter: FakhruddinAbdi
 # google: mygoogle
-instagram: FakhruddinAbdi
+# instagram: FakhruddinAbdi
 # pinterest: mypinterest
 linkedin: FakhruddinAbdi
 # youtube: myyoutube
