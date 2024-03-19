@@ -1,0 +1,40 @@
+---
+title: "Redefining Humanity's Core Values"
+layout: post
+date: 2024-3-20 08:00
+tag: 
+- AI
+- Humanity
+- Future
+- Technology
+- Creativity
+
+image: /assets/images/blogs/ai-human/image.png
+headerImage: true
+projects: false
+hidden: false # don't count this post in blog pagination
+description: "The Quran's preservation through memorization by millions of Muslims mirrors the immutable ledger of blockchain technology."
+category: blog
+author: Fakhruddin Abdi
+externalLink: false
+---
+
+<img style="width: 100%" src="/assets/images/blogs/ai-human/image.png" />
+
+Thinking back to how life has changed since the 90s, we've seen a shift in what's important. Back then, being strong was a big deal. Then came the 2000s, focusing on education. Now, it's all about technology.
+
+But with each change, technology has been taking over. Machines do what used to require physical strength, and the internet has made memorizing things less important.
+
+Yet, one thing hasn't changed: our ability to think and plan. However, as AI gets smarter, we wonder what will matter most for success in the future.
+
+Will it be strength, memory, and planning, or is there something more to being human?
+
+With AI potentially replacing jobs, we're questioning our worth. What will guide us in this new world?
+
+Take programming, for example. If AI had started coding in the 2000s, would we have new frameworks like React or Vue?
+
+The answer lies in our unique ability to create. Unlike AI, which improves existing ideas, humans invent new ones.
+
+So, while AI can help us, it can't replace our creativity. It's here to assist, not take over.
+
+As we navigate this AI-driven world, let's celebrate our creativity and redefine what it means to be human.
