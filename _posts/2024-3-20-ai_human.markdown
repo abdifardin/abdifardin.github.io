@@ -9,7 +9,7 @@ tag:
 - Technology
 - Creativity
 
-image: /assets/images/blogs/ai-human/image.png
+image: /assets/images/blogs/ai-human/logo.png
 headerImage: true
 projects: false
 hidden: false # don't count this post in blog pagination
