@@ -13,7 +13,7 @@ image: /assets/images/blogs/ai-human/logo.png
 headerImage: true
 projects: false
 hidden: false # don't count this post in blog pagination
-description: "The Quran's preservation through memorization by millions of Muslims mirrors the immutable ledger of blockchain technology."
+description: "As AI gets smarter, we wonder what will matter most for success in the future. Will it be strength, memory, and planning, or is there something more to being human?"
 category: blog
 author: Fakhruddin Abdi
 externalLink: false
