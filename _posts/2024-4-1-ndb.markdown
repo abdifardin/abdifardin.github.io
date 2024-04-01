@@ -1,0 +1,79 @@
+---
+title: "NDB"
+layout: post
+date: 2024-4-1 4:00
+tag: 
+- React Native
+- React Admin
+- React
+- GraphQL
+- Prisma
+- PostgreSQL
+image: /assets/images/projects/ndb/logo.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Payment solution for Iraq and Kurdistan region."
+category: project
+author: Fakhruddin Abdi
+externalLink: false
+---
+
+<img style="width: 100%" src="/assets/images/projects/ndb/banner.png" />
+
+As a softcode team, we started working on a new project called NDB with Balla Group client.
+NDB is a payment solution for Iraqi businesses, giving them the ability to accept payments from their customers.
+Its aims to provide a secure and reliable payment solution for the region.
+
+The project is a startup and I was the lead developer and project manager.
+Its a full stack project, from the mobile application to the backend and admin panel.
+Let's explore the different parts of the project.
+
+### Mobile application
+The mobile application is developed by React Native, and it's available for both iOS and Android.
+<img style="width: 100%" src="/assets/images/projects/ndb/app.png" />
+
+### Graphql API
+The backend is developed by Graphql, and it's a powerful tool for data management and monitoring.
+We created a logical layer over the static graphql schema and types, and made it dynamic and flexible for the future changes.
+The layer use js objects and generator functions to define the schema and types, which make it easy to update and maintain.
+
+Each object has a set of properties, which define and controle the behavior of the fields and queries.
+We also, created multiple middleware for the APIs, to handle different tasks like authentication, authorization, logging, and so on.
+
+For example, to define a field as a required field, we just need to add a `required: true` property to the field object.
+Or it set a middleware for a query, we just need to add a `middleware: [authMiddleware]` property to the query object.
+
+
+### Development and Deployment
+For the development and deployment, we leverage the power of github and github actions.
+Using different environments for the development, and production, we can easily test and deploy the changes to the different environments.
+
+
+### Testing
+For the testing, we used jest and end to end testing strategy.
+The end to end testing, help us to test the whole system, from the mobile application to the backend and admin panel.
+
+### Multiple payment providers
+The project supports multiple payment providers, like FIB, ZainCash, and more.
+The feature implementation was a bit challenging, in term of the different APIs and documentations.
+We created a unified API for the payment providers, which make it easy to add new providers in the future.
+
+## Features
+  - Multiple payment providers
+  - User management and profile
+  - Transaction history
+  - Admin panel for data management and monitoring
+
+
+## Tech stack
+- React Native
+- React Admin
+- React
+- GraphQL
+- PostgreSQL
+- iOS ( React Native )
+- Android ( React Native )
+
+## Links
+https://ndbiq.com
