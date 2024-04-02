@@ -33,6 +33,15 @@ Let's explore the different parts of the project.
 The mobile application is developed by React Native, and it's available for both iOS and Android.
 <img style="width: 100%" src="/assets/images/projects/ndb/app.png" />
 
+### System architecture and design
+The main challenge was to design a system that is scalable and reliable.
+We started with an initial design and architecture, and then we iterated over the design multiple times to make sure its scalable and reliable.
+It took us a lot of time to design the system, but it was worth it.
+
+But changing the database schema was a bit challenging, as we had to update the api and mobile application to reflect the changes.
+To overcome this challenge, we need an API that is dynamic and adaptable to future changes.
+In the next section, we will explore the API development and design.
+
 ### API Development
 Our backend is designed with a focus on data management and monitoring. We've established a logical layer over the static schema and types, making it dynamic and adaptable for future changes. This layer utilizes JavaScript objects and generator functions to define the schema and types, simplifying updates and maintenance.
 
@@ -40,11 +49,19 @@ Each object has a set of properties that dictate and control the behavior of the
 
 For instance, to designate a field as required, we simply add a required: true property to the field object. Similarly, to set a middleware for a query, we just need to add a middleware: [authMiddleware] property to the query object.
 
+### Separation of concerns
+Each part of the system is separated into different modules, making it easy to maintain and update. We've also implemented a strict separation of concerns, ensuring that each module is responsible for a specific task.
+For example, our identity module is plugged into the authentication middleware, which is responsible for authenticating the user. The identity module is also responsible for managing the user's profile and permissions.
+If we need to change the identity provider, we can simply update the identity module without affecting other parts of the system.
+
+### Security and stability
+The project is designed with security and stability in mind. 
+We've implemented various security measures such as query control, authentication, and authorization to protect the system from potential threats.
+We did a lot of research and testing to 
 
 ### Development and Deployment
 For the development and deployment, we leverage the power of github and github actions.
 Using different environments for the development, and production, we can easily test and deploy the changes to the different environments.
-
 
 ### Testing
 For the testing, we used jest and end to end testing strategy.
