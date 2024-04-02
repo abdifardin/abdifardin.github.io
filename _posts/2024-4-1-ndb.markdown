@@ -33,16 +33,12 @@ Let's explore the different parts of the project.
 The mobile application is developed by React Native, and it's available for both iOS and Android.
 <img style="width: 100%" src="/assets/images/projects/ndb/app.png" />
 
-### Graphql API
-The backend is developed by Graphql, and it's a powerful tool for data management and monitoring.
-We created a logical layer over the static graphql schema and types, and made it dynamic and flexible for the future changes.
-The layer use js objects and generator functions to define the schema and types, which make it easy to update and maintain.
+### API Development
+Our backend is designed with a focus on data management and monitoring. We've established a logical layer over the static schema and types, making it dynamic and adaptable for future changes. This layer utilizes JavaScript objects and generator functions to define the schema and types, simplifying updates and maintenance.
 
-Each object has a set of properties, which define and controle the behavior of the fields and queries.
-We also, created multiple middleware for the APIs, to handle different tasks like authentication, authorization, logging, and so on.
+Each object has a set of properties that dictate and control the behavior of the fields and queries. We've also implemented multiple middleware for the APIs to handle various tasks such as authentication, authorization, logging, and more.
 
-For example, to define a field as a required field, we just need to add a `required: true` property to the field object.
-Or it set a middleware for a query, we just need to add a `middleware: [authMiddleware]` property to the query object.
+For instance, to designate a field as required, we simply add a required: true property to the field object. Similarly, to set a middleware for a query, we just need to add a middleware: [authMiddleware] property to the query object.
 
 
 ### Development and Deployment
