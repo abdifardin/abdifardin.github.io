@@ -44,9 +44,6 @@ In the next section, we will explore the API development and design.
 ### API Development
 Our backend is designed with a focus on data management and monitoring. We've established a logical layer over the static schema and types, making it dynamic and adaptable for future changes. This layer utilizes JavaScript objects and generator functions to define the schema and types, simplifying updates and maintenance.
 
-Each object has a set of properties that dictate and control the behavior of the fields and queries. We've also implemented multiple middleware for the APIs to handle various tasks such as authentication, authorization, logging, and more.
-
-For instance, to designate a field as required, we simply add a required: true property to the field object. Similarly, to set a middleware for a query, we just need to add a middleware: [authMiddleware] property to the query object.
 
 ### Separation of concerns
 Each part of the system is separated into different modules, making it easy to maintain and update. We've also implemented a strict separation of concerns, ensuring that each module is responsible for a specific task.
