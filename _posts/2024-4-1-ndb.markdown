@@ -6,7 +6,6 @@ tag:
 - React Native
 - React Admin
 - React
-- GraphQL
 - Prisma
 - PostgreSQL
 image: /assets/images/projects/ndb/logo.png
@@ -83,10 +82,14 @@ We created a unified API for the payment providers, which make it easy to add ne
 - React Native
 - React Admin
 - React
-- GraphQL
 - PostgreSQL
 - iOS ( React Native )
 - Android ( React Native )
 
 ## Links
 https://ndbiq.com
+
+
+## Twitter post
+text: "My new blog post about NDB, a payment solution for Iraq and Kurdistan region which i developed with @softcode. #ReactNative #Prisma #PostgreSQL #ReactAdmin #NDB #Iraq #Kurdistan #PaymentSolution #Softcode #FakhruddinAbdi"
+```
