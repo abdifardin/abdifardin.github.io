@@ -1,7 +1,7 @@
 ---
 title: "Positive or Negative Motivation?"
 layout: post
-date: 2024-11-10 08:00
+date: 2024-12-26 08:00
 tag: 
 - Productivity
 - Motivation
@@ -32,9 +32,10 @@ When you are taking care of your health, are you exercising and eating well beca
 Let's focus on the work aspect of this concept.
 As an employer or a manager, its up to you which source you want to use to motivate your employees.
 The fear source is the easiest way to motivate your employees, However it will generate a negative energy, and it will make your employees less creative and less productive.
+
 You will end up with a team of employees who are just doing their job because they are afraid of losing it, not because they love it.
-You will end up with a team of employees who has no other choice but to stay in your company, not because they want to.
-And obviously, you will end up with a team of employees who are not happy, and they will not make your customers happy.
+with a team of employees who has no other choice but to stay in your company, not because they want to.
+And obviously, with a team of employees who are not happy, and they will not make your customers happy.
 
 Unfortunately, for the managers its not a matter of days to switch and build a pleasure source for their employees.
 Its not something you can learn from books or podcasts.
@@ -42,9 +43,9 @@ Instead its a matter of effort and time you've spent on yourself to know your eg
 Most of us are lying to ourselves, we are not honest with ourselves, we are not doing what we love, we are not living the life we want. 
 
 To gain such a pure and honest vision, you should be able to see and listen.
-When your mind is full of experiences and thoughts, you CANNOT see and listen.
-When you are full of fear and anger, you CANNOT see and listen.
-When you are full of ego and pride, you CANNOT see and listen.
+
+When your mind is full of experiences, thoughts, fear, anger, ego and pride, you CANNOT see and listen.
+
 
 You can only see and listen when you are empty, when you are calm, when you are humble.
 I finish this post with a quote from the great Rumi:
