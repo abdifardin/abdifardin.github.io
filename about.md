@@ -182,25 +182,14 @@ This visa recognition validated my entrepreneurial journey and provided the foun
 
 Right after securing the UK visa, I reunited with Dr. Layik at Softcode Solution, this time focusing on a fintech solution for the Iraq market. This collaboration represented a full-circle moment—returning to work with a trusted partner while applying years of accumulated expertise to solve financial technology challenges.
 
-We successfully developed the complete ecosystem including mobile applications, administrative interfaces, and robust backend architecture. The [NDB project](/ndb/) showcased our ability to build comprehensive fintech solutions that bridge traditional banking with modern digital experiences.
-
-**Key achievements:**
-- Built a dynamic GraphQL server from scratch using JSON-based schema configurations
-- Implemented comprehensive API-level and schema-level authorization with role-based access control
-- Reduced manual intervention by 20 hours per week through automated systems
+We successfully developed [NDB project](/ndb/) which is a complete ecosystem including mobile applications, administrative interfaces, and robust backend architecture.
 
 ---
 
 ### 🏥 2024-2025: Huma Therapeutics - Healthcare Innovation
 
-In April 2024, I joined [Huma Therapeutics](https://huma.com/) in Central London as Lead Web Engineer, diving into the exciting intersection of technology and healthcare. This role represents my commitment to using technology for meaningful impact on human wellbeing.
-
-**Transformative Contributions:**
-- **Architecture Revolution**: Transitioned a large codebase to a plugin-based architecture, improving scalability by 300%
-- **AI Innovation**: Developed an AI-based agent for Huma Builder that automates the creation of standalone health solutions, managing the entire lifecycle through AI interactions and reducing user confusion by 500%
-- **Integration Excellence**: Implemented controller functions and integrated them with AI models to control the builder system
-
-This role has deepened my expertise in healthcare technology while expanding my understanding of AI applications in real-world scenarios.
+In April 2024, I joined [Huma Therapeutics](https://huma.com/) in Central London as Lead Web Engineer, diving into the exciting intersection of technology and healthcare. 
+At Huma, I led a transformative shift in architecture, introduced an AI agent that simplifies health solution creation, and integrated AI with system controllers to enhance automation.
 
 ---
 
