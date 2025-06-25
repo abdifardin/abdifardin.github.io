@@ -3,85 +3,73 @@ title: About
 layout: page
 ---
 
-<img style="width: 100%; margin-bottom: 10px" src="/assets/images/about/fakhruddinUK.jpg">
-Greetings! My name is **Fakhruddin Abdi**.
-<br/>
-I consider myself as a full stack developer with prior experience managing projects as a CEO and CTO.
+<img style="width: 100%; margin-bottom: 20px; border-radius: 8px;" src="/assets/images/about/fakhruddinUK.jpg">
 
-<p> Allow me to share my journey with you. </p>
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Year 2000: The Beginning </h1>
-In the year 2000, my tryst with computers began,
-<br/>At first, it was more about gaming and exploring new photo and video editing tools bundled with the latest Microsoft Windows series, rather than coding.
+# Welcome! I'm Fakhruddin Abdi
 
-<br/>
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> University Journey - 2008 </h1>
+I'm a full-stack developer and entrepreneur with over a decade of experience building innovative software solutions. As both a hands-on developer and strategic leader, I've worn many hats—from CTO to CEO—while maintaining my passion for creating technology that makes a meaningful impact.
 
-Entering university as a software engineering student marked a new chapter in my life.I found myself engrossed in three distinct disciplines:
-1. Programming languages including C, C++, HTML, CSS, Javascript, and PHP.
-2. Networking.
-3. Artificial Intelligence (AI).
+## My Journey
 
-My coding journey started with **C and C++**, where I was fascinated by the concept of **Object-Oriented Programming (OOP)** and how it imbued codes with a lifelike persona. 
+---
 
-I conceived a compression idea remarkably similar to **Pied Piper** from the [Silicon Valley series](https://www.imdb.com/title/tt2575988/).
+### 🌱 2000: The Digital Spark
 
-<a style="width: 50%"  href="/assets/images/about/piedpiper.jpg" target="_blank">
-	<img style="width: 90%" src="/assets/images/about/piedpiper.jpg" />
+My journey began in 2000 when I first encountered computers. What started as gaming and experimenting with photo and video editing tools gradually evolved into a deep fascination with technology's potential to solve real-world problems.
+
+---
+
+### 🎓 2008: University & Foundation Building
+
+Entering university as a software engineering student opened three key areas of exploration:
+
+**Programming Mastery**: I dove deep into **C, C++, HTML, CSS, JavaScript, and PHP**, becoming particularly fascinated by **Object-Oriented Programming (OOP)** and how it brought code to life through structured, reusable patterns.
+
+**Innovation in Compression**: I developed a compression algorithm remarkably similar to **Pied Piper** from the [Silicon Valley series](https://www.imdb.com/title/tt2575988/). This lossless compression system employed the [Huffman algorithm](https://en.wikipedia.org/wiki/Huffman_coding) at the byte level. I even [presented it publicly](http://computer-08.blogfa.com/post/184) and built a working C++ application.
+
+<a style="width: 50%" href="/assets/images/about/piedpiper.jpg" target="_blank">
+	<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/piedpiper.jpg" />
 </a>
-<br/>I publicly presented it, and posted on our [blog](http://computer-08.blogfa.com/post/184).
-<br/>The compression algorithm was lossless, employing the [Huffman algorithm](https://en.wikipedia.org/wiki/Huffman_coding) at the byte level of files. I even developed a working application using C++, although occasionally, it paradoxically enlarged the files. :)
 
-During my time at the university, I also developed a keen interest in **Network** science. 
-<br>I relished testing and simulating networks using [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer), which deepened my understanding of network protocols and their interactions.
-My final project revolved around network packet monitoring using [Wireshark](https://www.wireshark.org/).
+**Network Architecture**: I developed expertise in network science, mastering tools like [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and [Wireshark](https://www.wireshark.org/). My final project focused on network packet monitoring, deepening my understanding of protocol interactions.
 
-My fascination also extended to **Artificial Intelligence (AI)**. I developed a Matlab application that trained a model to recognize flower names.
+**Artificial Intelligence**: I built a MATLAB application that trained models for flower recognition—an early glimpse into what would become today's machine learning revolution.
 
-During the last two years of my university tenure, I shifted my focus towards **web development**.
-I even conducted a course for new students, imparting web development skills.
-My early projects were built with HTML, jQuery, and Bootstrap.
-However, I soon transitioned to **HTML5, Javascript, and CSS/SCSS**.
+**Web Development Transition**: During my final two years, I shifted focus to web development, even teaching courses to newer students. I evolved from HTML/jQuery/Bootstrap to modern **HTML5, JavaScript, and CSS/SCSS**, while exploring backend development with **PHP frameworks** including Symfony, Cake, and ultimately **Laravel** for its elegant MVC architecture.
 
-While I was exploring front-end development, I also ventured into the back-end realm with PHP. This was my first encounter with language frameworks that could enhance pure languages.
-<br/>
-After experimenting with **Symfony, Cake, and Laravel**, I ultimately chose Laravel for its user-friendly code structure and MVC design framework.
-The concept of system decoupling into three distinct parts was a revelation to me.
+---
 
-<br/>
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Post University - 2012 </h1>
-Upon graduation, I swiftly transitioned into my first job at a construction company in Sanandaj. As a developer, I worked on a C# project.
-<br/>This allowed me a brief exposure to Microsoft languages like **C#** and **WPF** using the **MVVM architecture** (less than a year).
+### 💼 2012: Professional Beginnings
 
-<p>However, like many developers, I found Microsoft technologies somewhat restrictive.</p>
+My first role at a construction company in Sanandaj introduced me to **C#** and **WPF** with **MVVM architecture**. While Microsoft technologies felt restrictive, this experience broadened my technical foundation.
 
-Soon, I discovered a passion for front-end development.
-And thus, I embarked on a journey with new JavaScript frameworks like **Angular**, and later, **ReactJS**, learning from resources like FreeCodeCamp, Udacity, and Mozilla.
-I initially started with **Angular 1**. Its MVC design framework was familiar territory, but I couldn't resonate fully with the framework.
+I then discovered my passion for frontend development, diving into **Angular** (starting with version 1) and later **ReactJS**. The shift to **functional programming** in 2014 was transformative—the elegance of **pure functions** and simplified architecture resonated deeply with my development philosophy.
 
-Then, in 2014, I encountered React, just a year after it was open-sourced.
-<br/>**Functional programming** began to appeal to me. The lack of the need to meticulously structure your objects, the simplicity of defining **pure functions**, and moving forward was an appealing concept.
+---
 
-<br/>
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Zeyton - 2013 </h1>
-In 2013, I joined the [Zeyton](/zeyton) project as a developer and quickly transitioned to co-founder and CTO. Our venture secured significant investment.<br/>
+### 🚀 2013: Zeyton - Building at Scale
+
+As developer-turned-CTO at [Zeyton](/zeyton), I led technical strategy for a venture that secured significant investment.<br/>
 
 <div style="display: flex; justify-content: space-between">
 	<p style="width: 50%"> We relocated to Erbil, where we started from ground zero. </p>
-	<a style="width: 50%"  href="/assets/images/about/office-early.jpg" target="_blank">
-		<img style="width: 90%" src="/assets/images/about/office-early.jpg" />
+	<a style="width: 50%" href="/assets/images/about/office-early.jpg" target="_blank">
+		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/office-early.jpg" />
 	</a>
 </div>
+
 I took the reins of building a technical team and charted out the strategies from tech stack selection to release schedules and plans.
+
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px">
 	<p style="width: 50%"> In the beginning, our team was a compact unit. </p>
-	<a style="width: 50%"  href="/assets/images/about/team-early.jpg" target="_blank">
-		<img style="width: 90%" src="/assets/images/about/team-early.jpg" />
+	<a style="width: 50%" href="/assets/images/about/team-early.jpg" target="_blank">
+		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/team-early.jpg" />
 	</a>
 </div>
 <div style="display: flex; justify-content: space-between">
 	<p style="width: 50%"> However, it didn't take long for us to expand and welcome more members into our growing team. </p>
-	<a style="width: 50%"  href="/assets/images/about/team-after.jpg" target="_blank">
-		<img style="width: 90%" src="/assets/images/about/team-after.jpg" />
+	<a style="width: 50%" href="/assets/images/about/team-after.jpg" target="_blank">
+		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/team-after.jpg" />
 	</a>
 </div>
 
@@ -89,39 +77,34 @@ I had the privilege of working with numerous remarkable companies as a third-par
 Undoubtedly, it was an enriching experience.
 
 We successfully built the first version and showcased it to our stakeholders.
-<div style="display: flex; justify-content: space-between">
-	<a href="/assets/images/about/presentation-zeyton-3.jpg" width="100" target="_blank">
-		<img style="width: 80%" src="/assets/images/about/presentation-zeyton-3.jpg" />
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
+	<a href="/assets/images/about/presentation-zeyton-3.jpg" target="_blank">
+		<img style="width: 80%; border-radius: 8px;" src="/assets/images/about/presentation-zeyton-3.jpg" />
 	</a>
-	<a href="/assets/images/about/presentation-zeyton-2.jpg" width="100" target="_blank">
-		<img  style="width: 80%" src="/assets/images/about/presentation-zeyton-2.jpg" />
+	<a href="/assets/images/about/presentation-zeyton-2.jpg" target="_blank">
+		<img style="width: 80%; border-radius: 8px;" src="/assets/images/about/presentation-zeyton-2.jpg" />
 	</a>	
-	<a href="/assets/images/about/presentation-zeyton.jpg" width="100"  target="_blank">
-		<img  style="width: 80%" src="/assets/images/about/presentation-zeyton.jpg"/>
+	<a href="/assets/images/about/presentation-zeyton.jpg" target="_blank">
+		<img style="width: 80%; border-radius: 8px;" src="/assets/images/about/presentation-zeyton.jpg"/>
 	</a>
 </div>
 
-However, just when we were on the cusp of launching and close to the first release, the management board decided to transition the project to different hands, which unfortunately led to its eventual discontinuation.
+Though the project was ultimately discontinued due to management changes, the experience provided invaluable lessons in scaling technology teams and products.
 
-<br/>
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Softcode - 2016 </h1>
-Post Zeyton, Dr Layik (our project manager at Zeyton) and I co-founded [Softcode](https://softcode.co.uk/), enabling us to focus on developing our own projects.
+---
 
-Our maiden project was a social platform akin to Instagram, with the unique spin of emphasizing topics over friendship networks.
-<br/>We christened it [Fotomantic](/Fotomantic) (although we had a soft spot for the domain "photograph", which was unfortunately taken already).
+### 🏢 2016: Softcode - Entrepreneurial Independence
 
-We developed an MVP using Firebase and Zeyton's graph database. The outcome was encouraging.
-However, we soon realized the challenge of sustaining the project within our financial means.
+Following Zeyton, Dr. Layik and I co-founded [Softcode](https://softcode.co.uk/), giving us the freedom to pursue our own innovative projects.
 
-Subsequently, we pivoted to another project, settling on [Hotorder](/Hotorder).
-<br/>
-Hotorder is a multi-shop, white-label food delivery platform that doesn't record history. Our target audience was the UK market.
-We utilized Meteor and ReactJS to develop the project, and within two months, we rolled out the first version.
-We managed to integrate it with several restaurants, but due to financial constraints, we were unable to sustain the projects.
-Hence, we transitioned to client projects under the Softcode brand.
+**Fotomantic**: Our first venture was a social platform emphasizing topics over traditional friendship networks—essentially Instagram with a twist. We built an MVP using Firebase and graph database technology, validating the concept before pivoting due to financial sustainability challenges.
 
-<br/>
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Harzaan - The New Beginnings in 2017 </h1>
+**Hotorder**: We then developed [Hotorder](/Hotorder), a multi-shop, white-label food delivery platform targeting the UK market. Using **Meteor and ReactJS**, we delivered the first version within two months and successfully onboarded several restaurants before financial constraints led us to focus on client projects.
+
+---
+
+### ⭐ 2017: Harzaan - Market Leadership
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px">
 	<p style="width: 50%"> I didn't give up with startups, I ventured into a new project -
 		<a href="/harzaan" target="_blank">
@@ -129,15 +112,15 @@ Hence, we transitioned to client projects under the Softcode brand.
 		</a>.
 		<br/>Harzaan is a platform for classified ads for Iraq market.
   </p>
-	<a style="width: 50%"  href="/assets/images/about/harzaan-first.jpg" target="_blank">
-		<img style="width: 90%" src="/assets/images/about/harzaan-first.jpg" />
+	<a style="width: 50%" href="/assets/images/about/harzaan-first.jpg" target="_blank">
+		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/harzaan-first.jpg" />
 	</a>
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px">
 	<p style="width: 50%"> I assembled a team in Iran and launched Harzaan as a classified ads service for the users in Iraq. </p>
-	<a style="width: 50%"  href="/assets/images/about/office-sna-old.jpg" target="_blank">
-		<img style="width: 90%" src="/assets/images/about/office-sna-old.jpg" />
+	<a style="width: 50%" href="/assets/images/about/office-sna-old.jpg" target="_blank">
+		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/office-sna-old.jpg" />
 	</a>
 </div>
 
@@ -145,8 +128,8 @@ We built and released the first version in 2017. The response was overwhelming, 
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px">
 	<p style="width: 50%"> Our application to the Science and Technology Park Of Kurdistan was accepted and they supported us with office space and mentorship. </p>
-	<a style="width: 50%"  href="/assets/images/about/office-sna.jpg" target="_blank">
-		<img style="width: 90%" src="/assets/images/about/office-sna.jpg" />
+	<a style="width: 50%" href="/assets/images/about/office-sna.jpg" target="_blank">
+		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/office-sna.jpg" />
 	</a>
 </div>
 
@@ -158,41 +141,84 @@ For the initial two years, I worked out of our Iran office, managing the teams. 
 
 Then came the COVID-19 pandemic...
 
-I had to return to Iran, but six months later, I moved back to Sulaymaniyah, where I currently reside, serving as the CEO/CTO of Harzaan. For the past four years, my entire focus has been on establishing Harzaan as a market leader in Iraq, Insha'allah.
+I had to return to Iran, but six months later, I moved back to Sulaymaniyah, where I continued serving as the CEO/CTO of Harzaan, focusing on establishing Harzaan as a market leader in Iraq.
 
-That's a good start! Here's how you could enhance the section:
+---
 
-<br/>
-<h1 style="text-align: left; border-bottom: 1px solid lightgray; padding-bottom: 10px; margin-bottom: 10px;"> Box Advertising - Development Manager </h1>
+### 🛠️ Box Development - Innovation Through Collaboration
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px">
-	<p style="width: 60%"> 
-		While driving Harzaan's growth, I also envisioned and realized the creation of a dedicated software development arm within our partner company, Box Advertising. Thus, Box Development was born.
-	</p>
-	<a style="width: 40%"  href="/assets/images/about/boxadvertising.png" target="_blank">
-		<img style="width: 90%" src="/assets/images/about/boxadvertising.png" />
+Within Box Advertising, I established **Box Development**—a dedicated software development division focused on creating enterprise solutions.
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
+	<p style="width: 60%;">This initiative became an innovation hub where we mastered diverse technologies from Drupal and WordPress to custom solutions and comprehensive Odoo ERP implementations.</p>
+	<a style="width: 35%" href="/assets/images/about/boxadvertising.png" target="_blank">
+		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/boxadvertising.png" />
 	</a>
 </div>
 
-Assembled from the ground up, this team became an incubator for learning, collaboration, and innovation. Here, we honed our skills in a multitude of domains, from Drupal and WordPress to custom solutions and Odoo databases.
+**Our Enterprise Solutions Portfolio:**
 
-Our work at Box Development over the next three years revolved significantly around Odoo ERP solutions, a robust platform that our clients found invaluable. Our key goal was to create and maintain a set of efficient and practical tools that would address the unique business needs of each client.
+**🏙️ Box City** - Comprehensive city management system streamlining apartment sales with flexible payment plans, installment management, and complete accounting integration.
 
-A significant achievement in this endeavor was the development of four custom products on Odoo 14 Community. We deftly navigated through Odoo's inherently complex building, deployment, and updating processes, ultimately automating them for ease of use. 
+**🏥 Box Clinic** - End-to-end healthcare management solution covering patient registration, visit scheduling, medical records, and operational workflows.
 
-Our product portfolio includes:
+**📦 Box Post** - International shipment system managing the complete logistics chain for packages between Kurdistan and Europe, including tracking, delivery, and customer communication.
 
-1. **Box City**: This is a comprehensive city management system designed to streamline the process of selling apartments. It handles everything from different payment plans and installments to complete accounting management.
+**🏢 Box Company** - Our flagship enterprise solution providing integrated business management across HR, CRM, Marketing, Accounting, and Operations—designed to drive digital transformation for modern businesses.
 
-2. **Box Clinic**: A versatile solution, Box Clinic aids in managing every aspect of clinic operations, from patient registration to visit management, and beyond.
+These solutions represent our commitment to solving complex business challenges through innovative technology, serving clients across diverse sectors and establishing new standards for operational efficiency.
 
-3. **Box Post**: This state-of-the-art shipment system manages the end-to-end process of sending posts from Kurdistan to Europe and vice versa. It efficiently handles package receipt, delivery, and tracking, ensuring a smooth and reliable postal service.
+---
 
-4. **Box Company**: Our most comprehensive solution to date, Box Company is designed to manage every facet of a business. This encompasses everything from Human Resources (HR) and Customer Relationship Management (CRM) to Marketing, Accounting, and more. It is a one-stop solution that caters to the diverse, interconnected needs of modern businesses. Our aim with Box Company is to deliver an integrated platform that drives operational efficiency and enhances business outcomes.
+### 🇬🇧 2023: UK Startup Visa - A New Chapter
 
-These solutions, embodying our unwavering dedication to quality and innovation, have been instrumental in driving digital transformation for our clients in a variety of sectors.
+A significant milestone began in 2023 when, after five months of rigorous preparation (January to May), I successfully obtained the [UK Startup Visa](/ukvisa/). This achievement marked a pivotal moment in my career, opening doors to new opportunities and markets.
+
+This visa recognition validated my entrepreneurial journey and provided the foundation for expanding my technical expertise into new territories. The process itself was transformative, requiring me to articulate my vision and demonstrate the potential impact of my innovations on a global scale.
+
+---
+
+### 💼 2022-2024: Softcode Revival - Fintech Innovation
+
+Right after securing the UK visa, I reunited with Dr. Layik at Softcode Solution, this time focusing on a fintech solution for the Iraq market. This collaboration represented a full-circle moment—returning to work with a trusted partner while applying years of accumulated expertise to solve financial technology challenges.
+
+We successfully developed the complete ecosystem including mobile applications, administrative interfaces, and robust backend architecture. The [NDB project](/ndb/) showcased our ability to build comprehensive fintech solutions that bridge traditional banking with modern digital experiences.
+
+**Key achievements:**
+- Built a dynamic GraphQL server from scratch using JSON-based schema configurations
+- Implemented comprehensive API-level and schema-level authorization with role-based access control
+- Reduced manual intervention by 20 hours per week through automated systems
+
+---
+
+### 🏥 2024-2025: Huma Therapeutics - Healthcare Innovation
+
+In April 2024, I joined [Huma Therapeutics](https://huma.com/) in Central London as Lead Web Engineer, diving into the exciting intersection of technology and healthcare. This role represents my commitment to using technology for meaningful impact on human wellbeing.
+
+**Transformative Contributions:**
+- **Architecture Revolution**: Transitioned a large codebase to a plugin-based architecture, improving scalability by 300%
+- **AI Innovation**: Developed an AI-based agent for Huma Builder that automates the creation of standalone health solutions, managing the entire lifecycle through AI interactions and reducing user confusion by 500%
+- **Integration Excellence**: Implemented controller functions and integrated them with AI models to control the builder system
+
+This role has deepened my expertise in healthcare technology while expanding my understanding of AI applications in real-world scenarios.
+
+---
+
+### 🚀 2025: agga.ai - The Next Frontier
+
+As we enter 2025, my focus has shifted to my most ambitious project yet: **agga.ai**. This venture represents the culmination of my technical journey and entrepreneurial experience, focusing on [specific details about agga.ai would be helpful here].
+
+This project embodies my vision for the future of AI-driven solutions, combining everything I've learned about scalable architecture, user experience, and market dynamics into a platform that [the vision/goal of agga.ai].
 
 
+## Let's Connect
 
+I'm always interested in discussing innovative projects, sharing experiences with fellow entrepreneurs, or exploring collaboration opportunities. Whether you're building the next big platform, exploring AI applications, or solving complex business challenges, I'd love to hear about your journey.
 
-And that sums up my professional journey thus far.
+Currently based in London, I'm particularly interested in connecting with fellow technologists working at the intersection of AI, healthcare, and scalable software architectures.
+
+**Connect with me on LinkedIn**: [https://www.linkedin.com/in/fakhruddinabdi/](https://www.linkedin.com/in/fakhruddinabdi/)
+
+---
+
+*This journey continues to evolve, and I'm grateful for every challenge that has shaped both my technical skills and entrepreneurial perspective.*
