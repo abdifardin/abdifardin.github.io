@@ -172,9 +172,9 @@ These solutions represent our commitment to solving complex business challenges 
 
 ### 🇬🇧 2023: UK Startup Visa - A New Chapter
 
-A significant milestone began in 2023 when, after five months of rigorous preparation (January to May), I successfully obtained the [UK Startup Visa](/ukvisa/). This achievement marked a pivotal moment in my career, opening doors to new opportunities and markets.
+A significant milestone began in 2023 when, after five months of rigorous preparation (January to May), I successfully obtained the [UK Startup Visa](/uk-startup-visa/). This achievement marked a pivotal moment in my career, opening doors to new opportunities and markets.
 
-This visa recognition validated my entrepreneurial journey and provided the foundation for expanding my technical expertise into new territories. The process itself was transformative, requiring me to articulate my vision and demonstrate the potential impact of my innovations on a global scale.
+This visa recognition validated my entrepreneurial journey and provided the foundation for expanding my technical expertise into new territories. The process itself as transformative, requiring me to articulate my vision and demonstrate the potential impact of my innovations on a global scale.
 
 ---
 
