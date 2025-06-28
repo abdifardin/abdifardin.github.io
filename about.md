@@ -195,9 +195,7 @@ At Huma, I led a transformative shift in architecture, introduced an AI agent th
 
 ### 🚀 2025: agga.ai - The Next Frontier
 
-As we enter 2025, my focus has shifted to my most ambitious project yet: **agga.ai**. This venture represents the culmination of my technical journey and entrepreneurial experience, focusing on [specific details about agga.ai would be helpful here].
-
-This project embodies my vision for the future of AI-driven solutions, combining everything I've learned about scalable architecture, user experience, and market dynamics into a platform that [the vision/goal of agga.ai].
+As 2025 begins, my full focus is on AGGA.ai—a no-code AI web builder that reimagines how software is created. AGGA empowers users to build fully functional, scalable websites and internal tools simply by describing what they want. It decouples logic from implementation using a unique schema-driven compiler, making development faster, more modular, and accessible to non-technical users.
 
 
 ## Let's Connect
