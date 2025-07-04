@@ -146,14 +146,14 @@ Then came the COVID-19 pandemic...
 I had to return to Iran, but six months later, I moved back to Sulaymaniyah, where I continued serving as the CEO/CTO of Harzaan, focusing on establishing Harzaan as a market leader in Iraq.
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
-	<a style="width: 32%;" href="/assets/images/about/hitex-1.png" target="_blank">
-		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/hitex-1.png" />
+	<a style="width: 32%;" href="/assets/images/about/hitex-1.jpg" target="_blank">
+		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/hitex-1.jpg" />
 	</a>
-	<a style="width: 32%;" href="/assets/images/about/hitex-2.png" target="_blank">
-		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/hitex-2.png" />
+	<a style="width: 32%;" href="/assets/images/about/hitex-2.jpg" target="_blank">
+		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/hitex-2.jpg" />
 	</a>
-	<a style="width: 32%;" href="/assets/images/about/hitex-3.png" target="_blank">
-		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/hitex-3.png" />
+	<a style="width: 32%;" href="/assets/images/about/hitex-3.jpg" target="_blank">
+		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/hitex-3.jpg" />
 	</a>
 </div>
 
@@ -163,8 +163,8 @@ I had to return to Iran, but six months later, I moved back to Sulaymaniyah, whe
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
 	<p style="width: 50%;">Within Box Advertising, I established <b>Box Development</b> —a dedicated software development division focused on creating enterprise solutions. This initiative became an innovation hub where we mastered diverse technologies from Drupal and WordPress to custom solutions and comprehensive Odoo ERP implementations.</p>
-	<a style="width: 50%" href="/assets/images/about/boxads.png" target="_blank">
-		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/boxads.png" />
+	<a style="width: 50%" href="/assets/images/about/boxads.jpg" target="_blank">
+		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/boxads.jpg" />
 	</a>
 </div>
 
@@ -181,8 +181,8 @@ I had to return to Iran, but six months later, I moved back to Sulaymaniyah, whe
 These solutions represent our commitment to solving complex business challenges through innovative technology, serving clients across diverse sectors and establishing new standards for operational efficiency.
 
 <div style="display: flex; justify-content: center; margin-bottom: 15px;">
-	<a href="/assets/images/about/boxads_dev.png" target="_blank">
-		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/boxads_dev.png" />
+	<a href="/assets/images/about/boxads_dev.jpg" target="_blank">
+		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/boxads_dev.jpg" />
 	</a>
 </div>
 
@@ -192,8 +192,8 @@ These solutions represent our commitment to solving complex business challenges 
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
 	<p style="width: 50%;">A significant milestone began in 2023 when, after five months of rigorous preparation (January to May), I successfully obtained the <a href="/uk-startup-visa/" target="_blank">UK Startup Visa</a>. This achievement marked a pivotal moment in my career, opening doors to new opportunities and markets. This visa recognition validated my entrepreneurial journey and provided the foundation for expanding my technical expertise into new territories. The process itself as transformative, requiring me to articulate my vision and demonstrate the potential impact of my innovations on a global scale.</p>
-	<a style="width: 50%" href="/assets/images/about/ticket.png" target="_blank">
-		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/ticket.png" />
+	<a style="width: 50%" href="/assets/images/about/ticket.jpg" target="_blank">
+		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/ticket.jpg" />
 	</a>
 </div>
 
@@ -211,8 +211,8 @@ We successfully developed [NDB project](/ndb/) which is a complete ecosystem inc
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
 	<p style="width: 50%;">In April 2024, I joined <a href="https://huma.com/" target="_blank">Huma Therapeutics</a> in Central London as Lead Web Engineer, diving into the exciting intersection of technology and healthcare. At Huma, I led a transformative shift in architecture, introduced an AI agent that simplifies health solution creation, and integrated AI with system controllers to enhance automation.</p>
-	<a style="width: 50%" href="/assets/images/about/huma.png" target="_blank">
-		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/huma.png" />
+	<a style="width: 50%" href="/assets/images/about/huma.jpg" target="_blank">
+		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/huma.jpg" />
 	</a>
 </div>
 

@@ -6,7 +6,7 @@ layout: page
 <div style="text-align: center; margin-bottom: 40px;">
   <h1 style="margin-bottom: 5px;"><span style="color: #e74c3c;">Fardin</span> Abdi</h1>
   <h2 style="color: #333; margin-bottom: 15px;">Senior Frontend Engineer</h2>
-  <p style="margin-bottom: 10px;">📍<strong>London</strong> 📧 <a href="mailto:abdi.fakhruddin@gmail.com">abdi.fakhruddin@gmail.com</a> 📞 <a href="telto:+447599128187">+447599128187</a></p>
+  <p style="margin-bottom: 10px;"><strong>London</strong> 📧 <a href="mailto:abdi.fakhruddin@gmail.com">abdi.fakhruddin@gmail.com</a> 📞 <a href="telto:+447599128187">+447599128187</a></p>
   <p style="margin-bottom: 15px;"><strong>ReactJS, React Native, NextJS, Angular, Node.js, Firebase, GraphQL, Odoo</strong></p>
 </div>
 
