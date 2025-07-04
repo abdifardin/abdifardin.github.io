@@ -12,8 +12,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://docs.google.com/document/d/1_pnm0WfTLFWeQ7xqQkx4XoF5sR6N3BEYlUK2yrlUpWg
+resume-external: false
+resume-url: resume
 
 url: https://abdifardin.github.io
 # your url: http://USERNAME.github.io
@@ -101,6 +101,7 @@ animation: true
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji

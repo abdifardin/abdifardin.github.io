@@ -9,6 +9,9 @@ layout: page
 
 I'm a full-stack developer and entrepreneur with over a decade of experience building innovative software solutions. As both a hands-on developer and strategic leader, I've worn many hats—from CTO to CEO—while maintaining my passion for creating technology that makes a meaningful impact.
 
+> **Interested in my professional background?** Take a look at my [detailed résumé](/resume) for a comprehensive overview of my experience and achievements.
+
+
 ## My Journey
 
 ---
