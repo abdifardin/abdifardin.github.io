@@ -11,7 +11,6 @@ I'm a full-stack developer and entrepreneur with over a decade of experience bui
 
 > **Interested in my professional background?** Take a look at my [detailed résumé](/resume) for a comprehensive overview of my experience and achievements.
 
-
 ## My Journey
 
 ---
@@ -107,7 +106,7 @@ Following Zeyton, Dr. Layik and I co-founded [Softcode](https://softcode.co.uk/)
 
 ---
 
-### ⭐ 2017: Harzaan - Market Leadership
+### 2017: Harzaan - Market Leadership
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px">
 	<p style="width: 50%"> I didn't give up with startups, I ventured into a new project -
 		<a href="/harzaan" target="_blank">
@@ -146,16 +145,26 @@ Then came the COVID-19 pandemic...
 
 I had to return to Iran, but six months later, I moved back to Sulaymaniyah, where I continued serving as the CEO/CTO of Harzaan, focusing on establishing Harzaan as a market leader in Iraq.
 
+<div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
+	<a style="width: 32%;" href="/assets/images/about/hitex-1.png" target="_blank">
+		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/hitex-1.png" />
+	</a>
+	<a style="width: 32%;" href="/assets/images/about/hitex-2.png" target="_blank">
+		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/hitex-2.png" />
+	</a>
+	<a style="width: 32%;" href="/assets/images/about/hitex-3.png" target="_blank">
+		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/hitex-3.png" />
+	</a>
+</div>
+
 ---
 
 ### 🛠️ Box Development - Innovation Through Collaboration
 
-Within Box Advertising, I established **Box Development**—a dedicated software development division focused on creating enterprise solutions.
-
 <div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
-	<p style="width: 60%;">This initiative became an innovation hub where we mastered diverse technologies from Drupal and WordPress to custom solutions and comprehensive Odoo ERP implementations.</p>
-	<a style="width: 35%" href="/assets/images/about/boxadvertising.png" target="_blank">
-		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/boxadvertising.png" />
+	<p style="width: 50%;">Within Box Advertising, I established <b>Box Development</b> —a dedicated software development division focused on creating enterprise solutions. This initiative became an innovation hub where we mastered diverse technologies from Drupal and WordPress to custom solutions and comprehensive Odoo ERP implementations.</p>
+	<a style="width: 50%" href="/assets/images/about/boxads.png" target="_blank">
+		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/boxads.png" />
 	</a>
 </div>
 
@@ -171,13 +180,22 @@ Within Box Advertising, I established **Box Development**—a dedicated software
 
 These solutions represent our commitment to solving complex business challenges through innovative technology, serving clients across diverse sectors and establishing new standards for operational efficiency.
 
+<div style="display: flex; justify-content: center; margin-bottom: 15px;">
+	<a href="/assets/images/about/boxads_dev.png" target="_blank">
+		<img style="width: 100%; border-radius: 8px;" src="/assets/images/about/boxads_dev.png" />
+	</a>
+</div>
+
 ---
 
 ### 🇬🇧 2023: UK Startup Visa - A New Chapter
 
-A significant milestone began in 2023 when, after five months of rigorous preparation (January to May), I successfully obtained the [UK Startup Visa](/uk-startup-visa/). This achievement marked a pivotal moment in my career, opening doors to new opportunities and markets.
-
-This visa recognition validated my entrepreneurial journey and provided the foundation for expanding my technical expertise into new territories. The process itself as transformative, requiring me to articulate my vision and demonstrate the potential impact of my innovations on a global scale.
+<div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
+	<p style="width: 50%;">A significant milestone began in 2023 when, after five months of rigorous preparation (January to May), I successfully obtained the <a href="/uk-startup-visa/" target="_blank">UK Startup Visa</a>. This achievement marked a pivotal moment in my career, opening doors to new opportunities and markets. This visa recognition validated my entrepreneurial journey and provided the foundation for expanding my technical expertise into new territories. The process itself as transformative, requiring me to articulate my vision and demonstrate the potential impact of my innovations on a global scale.</p>
+	<a style="width: 50%" href="/assets/images/about/ticket.png" target="_blank">
+		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/ticket.png" />
+	</a>
+</div>
 
 ---
 
@@ -191,15 +209,18 @@ We successfully developed [NDB project](/ndb/) which is a complete ecosystem inc
 
 ### 🏥 2024-2025: Huma Therapeutics - Healthcare Innovation
 
-In April 2024, I joined [Huma Therapeutics](https://huma.com/) in Central London as Lead Web Engineer, diving into the exciting intersection of technology and healthcare. 
-At Huma, I led a transformative shift in architecture, introduced an AI agent that simplifies health solution creation, and integrated AI with system controllers to enhance automation.
+<div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
+	<p style="width: 50%;">In April 2024, I joined <a href="https://huma.com/" target="_blank">Huma Therapeutics</a> in Central London as Lead Web Engineer, diving into the exciting intersection of technology and healthcare. At Huma, I led a transformative shift in architecture, introduced an AI agent that simplifies health solution creation, and integrated AI with system controllers to enhance automation.</p>
+	<a style="width: 50%" href="/assets/images/about/huma.png" target="_blank">
+		<img style="width: 90%; border-radius: 8px;" src="/assets/images/about/huma.png" />
+	</a>
+</div>
 
 ---
 
 ### 🚀 2025: agga.ai - The Next Frontier
 
 As 2025 begins, my full focus is on AGGA.ai—a no-code AI web builder that reimagines how software is created. AGGA empowers users to build fully functional, scalable websites and internal tools simply by describing what they want. It decouples logic from implementation using a unique schema-driven compiler, making development faster, more modular, and accessible to non-technical users.
-
 
 ## Let's Connect
 
@@ -211,4 +232,4 @@ Currently based in London, I'm particularly interested in connecting with fellow
 
 ---
 
-*This journey continues to evolve, and I'm grateful for every challenge that has shaped both my technical skills and entrepreneurial perspective.*
+_This journey continues to evolve, and I'm grateful for every challenge that has shaped both my technical skills and entrepreneurial perspective._
