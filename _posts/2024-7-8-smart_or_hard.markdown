@@ -17,7 +17,7 @@ author: Your Name
 externalLink: false
 ---
 
-<img style="width: 100%" src="/assets/images/blogs/smart-hard/banner.png" />
+<img style="width: 100%" src="/assets/images/blogs/smart-hard/banner.jpg" />
 
 In the past, I was a firm believer in the concept of smart working. The idea that working smarter, not harder, could lead to success was deeply ingrained in my mindset. However, a recent realization has led me to reconsider this belief.
 
