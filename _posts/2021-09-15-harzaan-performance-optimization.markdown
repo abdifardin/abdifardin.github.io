@@ -19,7 +19,7 @@ author: Fakhruddin Abdi
 externalLink: false
 ---
 
-<img style="width: 100%" src="/assets/images/blogs/list-optimization/banner.png" />
+<img style="width: 100%" src="/assets/images/blogs/list-optimization/banner.jpg" />
 
 In September 2021, we faced a critical performance challenge with Harzaan, our classified ads platform. Users were experiencing app crashes, slow loading times, and poor user experience when browsing through listings. Here's how we tackled these issues through a systematic three-phase optimization approach.
 
