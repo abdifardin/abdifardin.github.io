@@ -196,4 +196,4 @@ Our three-phase optimization approach delivered significant improvements:
 
 ---
 
-*Harzaan is Iraq's leading classified ads platform, connecting millions of users with local deals and opportunities. Learn more about our technical journey at [harzaan.com](https://harzaan.com).* 
+*Harzaan is Iraq's leading classified ads platform, connecting millions of users with local deals and opportunities. Learn more about our technical journey at [Harzaan project](/harzaan).* 

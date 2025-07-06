@@ -104,7 +104,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  # - jemoji  # Temporarily disabled due to architecture issues
   - jekyll-admin
 
 jekyll-mentions:
