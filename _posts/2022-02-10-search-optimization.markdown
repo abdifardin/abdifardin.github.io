@@ -5,8 +5,8 @@ date: 2022-02-10 12:00
 tag: 
 - search-optimization
 - localization
-- natural-language-processing
-- kurdish
+- performance
+- harzaan
 
 image: /assets/images/blogs/search-optimization/search-image.png
 headerImage: true

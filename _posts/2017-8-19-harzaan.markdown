@@ -7,6 +7,8 @@ tag:
 - React Native
 - Wordpress
 - Firebase
+- harzaan
+
 image: /assets/images/projects/harzaan/logo.png
 headerImage: true
 projects: true
