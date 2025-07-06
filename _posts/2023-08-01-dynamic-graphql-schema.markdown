@@ -11,10 +11,10 @@ tag:
 
 image: /assets/images/projects/ndb/banner.png
 headerImage: true
-projects: true
+projects: false 
 hidden: false
 description: "How we tackled evolving GraphQL schemas in the NDB project with a dynamic code generator."
-category: project
+category: blog
 author: Fakhruddin Abdi
 externalLink: false
 ---
