@@ -8,6 +8,7 @@ tag:
 - react-native
 - code-sharing
 - harzaan
+- coding
 
 image: /assets/images/blogs/code-sharing/image.png
 headerImage: true
