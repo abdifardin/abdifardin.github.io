@@ -3,10 +3,13 @@ title: "Sarbakho"
 layout: post
 date: 2018-10-20 22:10
 tag: 
-- ReactJs
-- Firebae
-- Javascript
-- Database
+- sarbakho
+- react
+- firebase
+- covid
+- health
+- database
+
 image: /assets/images/projects/sarbakho/logo.png
 headerImage: true
 projects: true

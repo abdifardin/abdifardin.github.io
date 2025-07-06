@@ -3,12 +3,13 @@ title: "VidClip.ai - VEED Hackathon"
 layout: post
 date: 2025-05-31 10:00
 tag:
-    - AI
-    - Video Processing
-    - Hackathon
-    - React
-    - API Integration
-    - Computer Vision
+    - vidclip
+    - ai
+    - video-processing
+    - react
+    - api-integration
+    - hackathon
+    - content-creation
 image: /assets/images/projects/vidclip/veed-hackathon.png
 headerImage: true
 projects: true

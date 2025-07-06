@@ -3,11 +3,13 @@ title: "Harzaan"
 layout: post
 date: 2022-08-1 22:10
 tag: 
+- harzaan
 - React
 - React Native
 - Wordpress
 - Firebase
-- harzaan
+- classified-ads
+- project
 
 image: /assets/images/projects/harzaan/logo.png
 headerImage: true

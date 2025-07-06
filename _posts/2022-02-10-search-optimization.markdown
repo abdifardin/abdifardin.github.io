@@ -3,10 +3,12 @@ title: "Optimizing Kurdish Search for Classified Ads"
 layout: post
 date: 2022-02-10 12:00
 tag: 
+- harzaan
 - search-optimization
 - localization
 - performance
-- harzaan
+- coding
+- search
 
 image: /assets/images/blogs/search-optimization/search-image.png
 headerImage: true

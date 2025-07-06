@@ -3,15 +3,20 @@ title: "Odoo apps"
 layout: post
 date: 2022-2-10 22:10
 tag: 
-- ERP
-- CRM
-- Accounting
-- Logistic
-- Clinic
-- City
-- Sale
-- Purchase
-- Invoicing
+- odoo
+- erp
+- crm
+- accounting
+- logistic
+- clinic
+- city
+- sale
+- purchase
+- invoicing
+- healthcare
+- real-estate
+- postal
+- docker
 
 image: /assets/images/projects/odoo/odoo.png
 headerImage: true

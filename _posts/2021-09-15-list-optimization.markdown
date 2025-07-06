@@ -3,11 +3,12 @@ title: "Optimizing List Performance in React Native"
 layout: post
 date: 2021-09-15 12:00
 tag: 
+- harzaan
 - performance
 - react-native
-- image-processing
-- harzaan
 - list-optimization
+- coding
+- optimization
 
 image: /assets/images/blogs/list-optimization/image.png
 headerImage: true

@@ -3,9 +3,19 @@ title: "More..."
 layout: post
 date: 2012-1-10 22:10
 tag: 
-- Drupal
-- React
-- Firebase
+- multi-project
+- showcase
+- logistics
+- news
+- university
+- iptv
+- epos
+- cement
+- database
+- drupal
+- react
+- firebase
+- android
 
 image: /assets/images/projects/more/logo.png
 headerImage: true

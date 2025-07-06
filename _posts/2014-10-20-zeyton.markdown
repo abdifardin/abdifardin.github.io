@@ -3,13 +3,17 @@ title: "Zeyton"
 layout: post
 date: 2014-10-20 22:10
 tag: 
-- Semantic Web
-- ReactJs
-- Freebase
-- Graph Database
-- Triplestore
-- Cassandra
-- Drupal
+- zeyton
+- social-knowledge
+- search-engine
+- react
+- drupal
+- cassandra
+- blazegraph
+- freebase
+- graph-database
+- triplestore
+- laravel
 
 image: /assets/images/projects/zeyton/logo.png
 headerImage: true

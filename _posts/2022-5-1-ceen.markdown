@@ -3,12 +3,15 @@ title: "Ceen"
 layout: post
 date: 2022-5-1 22:10
 tag: 
-- React Native
-- GraphQL
-- Firebase
-- React Admin
-- Hasura
-- PostgreSQL
+- ceen
+- react-native
+- graphql
+- firebase
+- react-admin
+- recoil
+- poll
+- realtime
+
 image: /assets/images/projects/ceen/logo.png
 headerImage: true
 projects: true

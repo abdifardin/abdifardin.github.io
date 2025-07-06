@@ -3,10 +3,10 @@ title: "The Quran - An Ancient Blockchain?"
 layout: post
 date: 2023-8-23 08:00
 tag: 
-- AI
-- Blockchain
-- Bitcoin
-- Quran
+- blockchain
+- quran
+- ai
+- technology
 
 image: /assets/images/blogs/quran/logo.jpg
 headerImage: true

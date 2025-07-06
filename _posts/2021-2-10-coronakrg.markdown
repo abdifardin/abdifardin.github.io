@@ -3,10 +3,12 @@ title: "Corona KRG"
 layout: post
 date: 2020-2-10 22:10
 tag:
-- ReactJs
-- Firebae
-- Javascript
-- Covid
+- coronakrg
+- react
+- firebase
+- covid
+- health
+
 image: /assets/images/projects/corona/logo.png
 headerImage: true
 projects: true

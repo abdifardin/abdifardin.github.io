@@ -3,11 +3,14 @@ title: "Hotorder"
 layout: post
 date: 2017-5-5 22:10
 tag: 
-- MeteorJs
-- ReactJs
-- Javascript
-- Takeaway
-- Delivery
+- hotorder
+- meteorjs
+- react
+- firebase
+- takeaway
+- delivery
+- food-ordering
+
 image: /assets/images/projects/hotorder/logo.png
 headerImage: true
 projects: true
