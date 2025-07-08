@@ -44,3 +44,160 @@
 
             &:hover
                 color: $alpha
+
+// Language Switcher - Always on Right Side
+.language-switcher-top
+    position: fixed
+    top: 10px
+    right: 15px
+    z-index: 1000
+
+    .language-dropdown
+        position: relative
+        display: inline-block
+
+    .language-toggle
+        background: rgba(255, 255, 255, 0.9)
+        border: 1px solid $epsilon
+        border-radius: 20px
+        font-size: 1.2rem
+        padding: 8px 12px
+        cursor: pointer
+        color: $beta
+        display: flex
+        align-items: center
+        gap: 5px
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1)
+        transition: all 0.3s ease
+
+        .dropdown-arrow
+            transition: transform 0.3s ease
+            font-size: 0.8rem
+
+        &:hover
+            background: rgba(255, 255, 255, 1)
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15)
+
+    .language-menu
+        position: absolute
+        top: 100%
+        right: 0
+        background: $white
+        border: 1px solid $epsilon
+        border-radius: 8px
+        box-shadow: 0 4px 20px rgba(0,0,0,0.15)
+        opacity: 0
+        visibility: hidden
+        transform: translateY(-10px)
+        transition: all 0.3s ease
+        z-index: 1001
+        min-width: 130px
+        margin-top: 5px
+
+    .language-option
+        display: block
+        padding: 12px 16px
+        text-decoration: none
+        color: $beta
+        font-size: 1.2rem
+        border-bottom: 1px solid $epsilon
+        transition: background-color 0.2s ease
+
+        &:last-child
+            border-bottom: none
+
+        &:hover
+            background-color: $epsilon
+            color: $delta
+
+    // Show dropdown on hover
+    .language-dropdown:hover
+        .language-menu
+            opacity: 1
+            visibility: visible
+            transform: translateY(0)
+
+        .language-toggle .dropdown-arrow
+            transform: rotate(180deg)
+
+// RTL Support for Persian and Kurdish
+body.rtl-lang
+    font-family: 'Noto Naskh Arabic', $fontSans
+    text-align: right
+    direction: rtl
+    
+    // Fix navigation for RTL - keep it functional
+    .nav
+        left: 0
+        right: auto
+        
+        > .list
+            padding: 0 0 0 13px
+            text-align: left
+            
+            > .item
+                display: inline-block
+                
+            > .item > .link
+                display: inline-block
+                font-weight: 400
+                font-size: 1.4rem
+                padding: 20px 10px
+                text-decoration: none
+    
+    .nav-home
+        text-align: center
+        
+        > .list
+            padding: 0
+            text-align: center
+            
+            > .item
+                display: inline-block
+                
+            > .item > .link
+                display: inline-block
+                font-size: 2rem
+                padding: 7px 15px
+                margin: 0
+                border-radius: 4%
+                transition: all 0.4s ease-in-out
+                width: 70px
+    
+    // Keep language switcher on right side always
+    .language-switcher-top
+        right: 15px
+        left: auto
+        
+        .language-menu
+            right: 0
+            left: auto
+    
+    // RTL text adjustments
+    ul, ol
+        margin-right: 40px
+        margin-left: 0
+    
+    blockquote
+        border-right: 3px solid #eee
+        border-left: none
+        padding-right: 15px
+        padding-left: 0
+
+// Responsive adjustments
+@media screen and (max-width: 768px)
+    .language-switcher-top
+        top: 5px
+        right: 10px
+        
+        .language-toggle
+            font-size: 1.1rem
+            padding: 6px 10px
+
+        .language-menu
+            min-width: 120px
+            
+    // Keep language switcher on right for mobile RTL too
+    body.rtl-lang .language-switcher-top
+        right: 10px
+        left: auto

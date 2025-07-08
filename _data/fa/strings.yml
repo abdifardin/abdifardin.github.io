@@ -1,0 +1,38 @@
+nav:
+  home: "خانه"
+  blog: "وبلاگ"
+  projects: "پروژه‌ها"
+  about: "درباره"
+  resume: "رزومه"
+
+layout:
+  read_time: "خواندن"
+  min_read: "دقیقه مطالعه"
+  share: "اشتراک‌گذاری"
+  related_posts: "مطالب مرتبط"
+  previous: "قبلی"
+  next: "بعدی"
+  author: "نویسنده"
+  tags: "برچسب‌ها"
+  posted_on: "منتشر شده در"
+
+footer:
+  follow_me: "دنبال کنید"
+  
+blog:
+  title: "وبلاگ"
+  latest_posts: "آخرین مطالب"
+  read_more: "ادامه مطلب"
+  
+projects:
+  title: "پروژه‌ها"
+  view_project: "مشاهده پروژه"
+  featured_projects: "پروژه‌های ویژه"
+
+about:
+  title: "درباره"
+  welcome: "خوش آمدید! من فخرالدین عبدی هستم"
+  
+resume:
+  title: "رزومه"
+  download: "دانلود PDF" 

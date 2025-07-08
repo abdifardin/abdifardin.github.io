@@ -99,6 +99,12 @@ show-author: true
 # do you want some animations?
 animation: true
 
+# Multi-language configuration
+languages: ["en", "ku", "fa"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "assets"]
+parallel_localization: true
+
 # Exclude files/folders from processing
 exclude:
   - CLAUDE.md
@@ -121,6 +127,7 @@ plugins:
   - jekyll-feed
   # - jemoji  # Temporarily disabled due to architecture issues
   - jekyll-admin
+  - jekyll-polyglot
 
 jekyll-mentions:
     base_url: https://github.com

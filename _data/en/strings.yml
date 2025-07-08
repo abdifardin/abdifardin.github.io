@@ -1,0 +1,38 @@
+nav:
+  home: "Home"
+  blog: "Blog"
+  projects: "Projects"
+  about: "About"
+  resume: "Résumé"
+
+layout:
+  read_time: "read"
+  min_read: "min read"
+  share: "Share"
+  related_posts: "Related Posts"
+  previous: "Previous"
+  next: "Next"
+  author: "Author"
+  tags: "Tags"
+  posted_on: "Posted on"
+
+footer:
+  follow_me: "Follow me"
+  
+blog:
+  title: "Blog"
+  latest_posts: "Latest Posts"
+  read_more: "Read more"
+  
+projects:
+  title: "Projects"
+  view_project: "View Project"
+  featured_projects: "Featured Projects"
+
+about:
+  title: "About"
+  welcome: "Welcome! I'm Fakhruddin Abdi"
+  
+resume:
+  title: "Résumé"
+  download: "Download PDF" 

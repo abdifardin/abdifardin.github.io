@@ -2,7 +2,8 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="en">
+{% assign current_lang = page.lang | default: site.default_lang %}
+<html lang="{{ current_lang }}">
 <head>
 
     <meta charset="utf-8">
@@ -19,13 +20,18 @@ layout: compress
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
 
+    <!-- RTL Support for Persian and Kurdish -->
+    {% if current_lang == 'fa' or current_lang == 'ku' %}
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400;700&display=swap" rel="stylesheet">
+    {% endif %}
+
     <style>
     {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
     {{ scss_sheet | scssify }}
     </style>
 
 </head>
-<body>
+<body {% if current_lang == 'fa' or current_lang == 'ku' %}class="rtl-lang"{% endif %}>
 
     <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
         {% if page.tag %}

@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+lang: en
 ---
 
 <img style="width: 100%; margin-bottom: 20px; border-radius: 8px;" src="/assets/images/about/fakhruddinUK.jpg">

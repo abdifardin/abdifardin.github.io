@@ -1,0 +1,38 @@
+nav:
+  home: "سەرەتا"
+  blog: "بلۆگ"
+  projects: "پرۆژەکان"
+  about: "دەربارە"
+  resume: "ژیاننامە"
+
+layout:
+  read_time: "خوێندنەوە"
+  min_read: "خولەک خوێندنەوە"
+  share: "هاوبەشکردن"
+  related_posts: "بابەتە پەیوەندیدارەکان"
+  previous: "پێشوو"
+  next: "دواتر"
+  author: "نووسەر"
+  tags: "تاگەکان"
+  posted_on: "بڵاوکراوەتەوە لە"
+
+footer:
+  follow_me: "شوێنم بکەوە"
+  
+blog:
+  title: "بلۆگ"
+  latest_posts: "تازەترین بابەتەکان"
+  read_more: "زیاتر بخوێنەوە"
+  
+projects:
+  title: "پرۆژەکان"
+  view_project: "پرۆژەکە ببینە"
+  featured_projects: "پرۆژە تایبەتەکان"
+
+about:
+  title: "دەربارە"
+  welcome: "بەخێربێن! من فەخرەدین عەبدیم"
+  
+resume:
+  title: "ژیاننامە"
+  download: "داونلۆدی PDF" 

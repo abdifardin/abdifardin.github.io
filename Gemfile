@@ -5,3 +5,4 @@ gem 'html-proofer'
 gem 'jekyll-admin'
 gem "webrick"
 gem 'jemoji'
+gem 'jekyll-polyglot'
