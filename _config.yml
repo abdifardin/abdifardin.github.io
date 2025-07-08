@@ -99,6 +99,21 @@ show-author: true
 # do you want some animations?
 animation: true
 
+# Exclude files/folders from processing
+exclude:
+  - CLAUDE.md
+  - FAQ.md
+  - cv-prompt.md
+  - interview_prep.md
+  - assets/fardin-cv.pdf
+  - "assets/images/projects/hotorder/My Account _ Billing.pdf"
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - Makefile
+  - travis.sh
+  - README.md
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

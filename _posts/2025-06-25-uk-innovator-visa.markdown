@@ -197,4 +197,11 @@ The transition from Startup Visa to Innovator Founder Visa was challenging but u
 
 The Innovator Founder Visa represents a more mature, business-focused approach to UK entrepreneurship visas. While the requirements are more stringent than the previous Startup Visa, the route provides a clear pathway for serious entrepreneurs looking to build scalable businesses in the UK.
 
-For those considering this route, thorough preparation, detailed documentation, and early engagement with endorsing bodies are essential for success. The investment in time and effort is significant, but the opportunities for building a business in the UK make it worthwhile for committed entrepreneurs. 
+For those considering this route, thorough preparation, detailed documentation, and early engagement with endorsing bodies are essential for success. The investment in time and effort is significant, but the opportunities for building a business in the UK make it worthwhile for committed entrepreneurs.
+
+<div style="background-color: #f0f7ff; border: 1px solid #3498db; border-radius: 8px; padding: 20px; margin: 30px 0; color: #2c3e50;">
+  <h4 style="margin-top: 0; color: #2980b9;">💬 Need Advice on Your UK Innovator Founder Visa Application?</h4>
+  <p>Having gone through the entire process from Startup Visa to Innovator Founder Visa, I understand the challenges and complexities involved. If you're considering this visa route or are currently in the application process, I'm happy to share my experience and provide guidance.</p>
+  <p style="margin-bottom: 0;"><strong>Feel free to reach out:</strong> <a href="mailto:abdi.fakhruddin@gmail.com" style="color: #2980b9; text-decoration: underline;">abdi.fakhruddin@gmail.com</a></p>
+  <p style="margin-bottom: 0; font-size: 0.9em; color: #7f8c8d; margin-top: 10px;"><em>I'll do my best to respond to all genuine inquiries about the UK visa process.</em></p>
+</div> 

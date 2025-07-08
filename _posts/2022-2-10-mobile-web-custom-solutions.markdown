@@ -1,5 +1,5 @@
 ---
-title: "More..."
+title: "Mobile, Web & Custom Solutions"
 layout: post
 date: 2012-1-10 22:10
 tag: 
@@ -21,7 +21,7 @@ image: /assets/images/projects/more/logo.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "A classified ads website for kurdish people"
+description: "Showcase of diverse software development projects including mobile applications, web systems, and custom database solutions across multiple industries"
 category: project
 author: Fakhruddin Abdi
 externalLink: false
