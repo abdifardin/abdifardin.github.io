@@ -74,12 +74,16 @@ layout: page
       <span>2017-2021</span>
     </div>
     <ul>
-      <li>Led the development of cross-platform applications for web, iOS, and Android, growing the user base to 100K monthly active users from zero. → <a href="/2017/08/19/harzaan/">See Harzaan Platform</a></li>
+      <li>Led the development of cross-platform applications for web, iOS, and Android, growing the user base to 100K monthly active users from zero with 400K+ total downloads across app stores. → <a href="/2017/08/19/harzaan/">See Harzaan Platform</a></li>
+      <li>Implemented automated CI/CD pipelines using Fastlane for monthly React Native releases across iOS and Android platforms, achieving 98% crash-free rate through comprehensive staging environments.</li>
       <li>Conducted multiple system migrations and rewrites, setting up staging environments with production data synchronization to ensure smooth and bug-free deployments, achieving a crash rate of just 2%.</li>
-      <li>Developed a user activity tracking system, logging data across platforms and streaming it into Google BigQuery and Google Looker, generating tailored reports for different teams to analyze user behavior.</li>
+      <li>Developed comprehensive user activity tracking system, logging data across platforms and streaming it into Google BigQuery and Google Looker, generating tailored reports for different teams to analyze user behavior and business metrics.</li>
+      <li>Built WordPress blog platform integration for content marketing and SEO optimization, creating a unified brand experience across web and mobile platforms.</li>
       <li>Reduced the Next.js web application's bundle size by over 95%, from 2 MB to less than 100 KB, by implementing lazy loading and a modular system for optimized performance.</li>
+      <li>Implemented smart search functionality with Algolia integration, enabling fast and accurate product discovery with advanced filtering and autocomplete capabilities.</li>
       <li>Utilized deep linking for cross-platform integration, automating user onboarding from active campaigns to the relevant pages. Increased our user conversion rate by 60%.</li>
-      <li>Enhanced the search experience by implementing a family words feature, allowing related terms to yield the same results. This improvement increased product discovery.</li>
+      <li>Enhanced the search experience by implementing a family words feature, allowing related terms to yield the same results. This improvement increased product discovery and user engagement.</li>
+      <li>Developed real-time chat and messaging system integrated across web and mobile platforms, enabling seamless communication between buyers and sellers.</li>
     </ul>
   </div>
 
@@ -89,14 +93,16 @@ layout: page
       <span style="font-style: italic;">Erbil, Iraq</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 4px; margin-bottom: 8px;">
-      <strong>Web Developer</strong>
+      <strong>Web Developer and project manager</strong>
       <span>2014-2017</span>
     </div>
     <ul>
       <li>Contributed to the development and rebuilding of the Freebase graph database, with more than 80M topics, utilizing Cassandra and Blazegraph with RDF, optimizing the system for large-scale data management. → <a href="/2014/10/20/zeyton/">See Zeyton Knowledge Platform</a></li>
-      <li>Developed the first version of the social knowledge platform using the first early versions of ReactJS in 2014.</li>
-      <li>Used Drupal as a headless CMS, decoupling the backend to power a React.js frontend application.</li>
-      <li>Established a training center and designed a hiring pipeline to hire top talent based on training outcome.</li>
+      <li>Built translation management system to handle content localization across multiple languages, enabling platform expansion to diverse regional markets.</li>
+      <li>Developed cross-platform voice over IP and instant messaging application, integrating real-time communication features across web and mobile platforms.</li>
+      <li>Implemented headless CMS architecture using Drupal backend with React.js frontend, pioneering modern decoupled web application development in 2014.</li>
+      <li>Established comprehensive training center and designed talent acquisition pipeline, hiring and training top-tier developers based on practical coding assessments and project outcomes.</li>
+      <li>Coordinated cross-platform development using React, Laravel, Android, and Cassandra technologies, ensuring seamless integration across multiple technology stacks.</li>
     </ul>
   </div>
 </div>
