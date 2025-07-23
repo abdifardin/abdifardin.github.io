@@ -21,7 +21,6 @@ externalLink: false
 ---
 
   <img style="width: 100%" src="/assets/images/projects/vidclip/screenshot-1.png" alt="VidSnap interface showing intelligent video analysis and content detection" />
-  </div>
 
 VidClip.ai was born during the [VEED x fal.ai Gen AI Hackathon](https://lu.ma/989p71d2?tk=lmSXIP) in May 2025, a three-day intensive coding event held at VEED's office in the heart of Shoreditch, London. Together with my teammate Sirwan, we tackled the challenge of revolutionizing how creators generate short-form content from long videos.
 
@@ -44,8 +43,8 @@ _Working alongside my teammate Sirwan at the VEED office in Shoreditch during th
 Here's our complete presentation video from the final submission at the hackathon:
 
 <video width="100%" controls preload="metadata">
-  <source src="/assets/videos/vidsnap-compressed.mp4" type="video/mp4">
-  <p>Your browser does not support the video tag. <a href="/assets/videos/vidsnap-compressed.mp4">Download the video</a> to watch it.</p>
+  <source src="/assets/videos/vidsnap.mp4" type="video/mp4">
+  <p>Your browser does not support the video tag. <a href="/assets/videos/vidsnap.mp4">Download the video</a> to watch it.</p>
 </video>
 
 ## The Problem We Solved
