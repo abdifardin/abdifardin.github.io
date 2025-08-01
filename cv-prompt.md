@@ -86,12 +86,13 @@ My base resume is at `@resume.md`, and project details are in the `_posts/` dire
     **Page 1 Content (Target: ~30-35 lines):**
     - Header + Profile Summary (~8 lines)
     - Experience section header (~1 line)
-    - First 3 experiences: Huma, Softcode, Box Advertising (~20-25 lines)
+    - First 3 experiences: AGGA.AI, Huma, Softcode (~20-25 lines)
     - This ensures page 1 focuses on most recent and relevant roles
     
-    **Page 2 Content (Target: ~20 lines):**
-    - Harzaan experience (~12 lines with enhanced content)
-    - Newroz Telecom experience (~8 lines with enhanced content)
+    **Page 2 Content (Target: ~25-30 lines):**
+    - Box Advertising experience (~8-10 lines)
+    - Harzaan experience (~10-12 lines with enhanced content)
+    - Newroz Telecom experience (~8-10 lines with enhanced content)
     - Complete experiences without section breaks
     
     **Page 3 Content (Target: ~20 lines):**
@@ -100,14 +101,15 @@ My base resume is at `@resume.md`, and project details are in the `_posts/` dire
     - Featured Projects (~8 lines)
 
 12. **Content Length Guidelines:**
-    - **Recent experience entries**: 3-5 bullet points each
+    - **Recent experience entries (AGGA, Huma, Softcode)**: 3-5 bullet points each
+    - **Mid-career experience (Box Advertising)**: 3-5 bullet points
     - **Key positions (Harzaan, Newroz)**: 6-8 bullet points each
     - **Bullet points**: Maximum 2 lines each to prevent orphaned text
     - **Project descriptions**: 1 line each with quantified metrics
     - **Section spacing**: Consistent spacing between sections
 
 13. **Page Break Implementation:**
-    - Add `<div style="page-break-before: always;"></div>` before Harzaan section
+    - Add `<div style="page-break-before: always;"></div>` before Box Advertising section
     - Add `<div style="page-break-before: always;"></div>` before Education section
     - Ensure complete sections stay together on single pages
     - Never split experience entries across pages
@@ -129,21 +131,21 @@ My base resume is at `@resume.md`, and project details are in the `_posts/` dire
 
 [Profile summary tailored to job requirements, highlighting relevant experience and domain knowledge.]
 
-## EXPERIENCE
+## EXPERIENCE (UK)
 
-### [Recent Company 1]
+### AGGA.AI
 **[Job Title]** | *[Location]* | [Dates]
-- [3-5 bullet points for recent roles]
-- [Quantified results and metrics]
-- [Technologies relevant to job]
+- [3-5 bullet points for current role]
+- [AI and builder technologies]
+- [Innovation and technical achievements]
 
-### [Recent Company 2]
+### Huma Therapeutics
 **[Job Title]** | *[Location]* | [Dates]
 - [3-5 bullet points for recent roles]
 - [Technical achievements]
 - [Industry-specific experience]
 
-### [Recent Company 3]
+### Softcode Solution
 **[Job Title]** | *[Location]* | [Dates]
 - [3-5 bullet points for recent roles]
 - [Leadership or scaling experience]
@@ -151,6 +153,14 @@ My base resume is at `@resume.md`, and project details are in the `_posts/` dire
 
 <!-- PAGE 1 ENDS HERE (~30-35 lines) -->
 <div style="page-break-before: always;"></div>
+
+## EXPERIENCE (International)
+
+### Box Advertising
+**[Job Title]** | *[Location]* | [Dates]
+- [3-5 bullet points for this role]
+- [Platform development and VIP features]
+- [Multi-language and ERP solutions]
 
 ### Harzaan
 **[Job Title]** | *[Location]* | [Dates]
@@ -173,7 +183,7 @@ My base resume is at `@resume.md`, and project details are in the `_posts/` dire
 - [Training and hiring pipeline]
 - [Cross-technology integration]
 
-<!-- PAGE 2 ENDS HERE (~20 lines) -->
+<!-- PAGE 2 ENDS HERE (~25-30 lines) -->
 <div style="page-break-before: always;"></div>
 
 ## EDUCATION

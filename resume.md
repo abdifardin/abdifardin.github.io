@@ -17,7 +17,7 @@ layout: page
 
   <div class="entry" style="margin-top: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <h3 style="margin: 0; font-size: 1.17em;">AGGA.AI</h3>
+      <h3 style="margin: 0; font-size: 1.17em;"><a href="https://agga.ai">AGGA.AI</a></h3>
       <span style="font-style: italic;">London, UK</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 4px; margin-bottom: 8px;">
@@ -33,7 +33,7 @@ layout: page
 
   <div class="entry" style="margin-top: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <h3 style="margin: 0; font-size: 1.17em;">Huma Therapeutics</h3>
+      <h3 style="margin: 0; font-size: 1.17em;"><a href="https://huma.com">Huma Therapeutics</a></h3>
       <span style="font-style: italic;">London, UK</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 4px; margin-bottom: 8px;">
@@ -49,7 +49,7 @@ layout: page
 
   <div class="entry" style="margin-top: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <h3 style="margin: 0; font-size: 1.17em;">Softcode Solution</h3>
+      <h3 style="margin: 0; font-size: 1.17em;"><a href="https://softcode.co.uk">Softcode Solution</a></h3>
       <span style="font-style: italic;">Southampton, UK</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 4px; margin-bottom: 8px;">
@@ -65,7 +65,7 @@ layout: page
 
   <div class="entry" style="margin-top: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <h3 style="margin: 0; font-size: 1.17em;">Box Advertising</h3>
+      <h3 style="margin: 0; font-size: 1.17em;"><a href="https://boxads.co">Box Advertising</a></h3>
       <span style="font-style: italic;">Sulaymaniyah, Iraq</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 4px; margin-bottom: 8px;">
@@ -82,7 +82,7 @@ layout: page
 
   <div class="entry" style="margin-top: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <h3 style="margin: 0; font-size: 1.17em;">Harzaan</h3>
+      <h3 style="margin: 0; font-size: 1.17em;"><a href="https://harzaan.com">Harzaan</a></h3>
       <span style="font-style: italic;">Sulaymaniyah, Iraq</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 4px; margin-bottom: 8px;">
@@ -105,7 +105,7 @@ layout: page
 
   <div class="entry" style="margin-top: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <h3 style="margin: 0; font-size: 1.17em;">Allai Newroz Telecom</h3>
+      <h3 style="margin: 0; font-size: 1.17em;"><a href="https://newroztelecom.com/">Allai Newroz Telecom</a></h3>
       <span style="font-style: italic;">Erbil, Iraq</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 4px; margin-bottom: 8px;">
