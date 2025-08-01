@@ -17,12 +17,28 @@ layout: page
 
   <div class="entry" style="margin-top: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
+      <h3 style="margin: 0; font-size: 1.17em;">AGGA.AI</h3>
+      <span style="font-style: italic;">London, UK</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 4px; margin-bottom: 8px;">
+      <strong>Full Stack Developer</strong>
+      <span>2025-Present</span>
+    </div>
+    <ul>
+      <li>Building an abstraction layer over JavaScript function implementations that makes them consumable and manageable by AI systems, revolutionizing how AI interacts with web development.</li>
+      <li>Leveraging Higher-Order Functions (HOF) in the builder to enable dynamic runtime behavior and on-demand state generation using React hooks and Zustand for optimal performance and flexibility.</li>
+      <li>Developed the first version of an AI builder with OpenAI API integration, enabling AI to understand, consume, and orchestrate JavaScript functions for automated web development.</li>
+    </ul>
+  </div>
+
+  <div class="entry" style="margin-top: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <h3 style="margin: 0; font-size: 1.17em;">Huma Therapeutics</h3>
       <span style="font-style: italic;">London, UK</span>
     </div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 4px; margin-bottom: 8px;">
       <strong>Senior Software Engineer</strong>
-      <span>2024-2025</span>
+      <span>2024</span>
     </div>
     <ul>
       <li>Contributed to Huma's remote patient monitoring system by developing new health modules with real-time tracking using Angular.</li>
@@ -38,7 +54,7 @@ layout: page
     </div>
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 4px; margin-bottom: 8px;">
       <strong>Senior Full Stack Developer</strong>
-      <span>2023-2024</span>
+      <span>2023</span>
     </div>
     <ul>
       <li>Contributed to a fintech application, working on the React-based admin panel, React Native mobile app. → <a href="/2024/04/01/ndb/">See NDB Payment Solution</a></li>
